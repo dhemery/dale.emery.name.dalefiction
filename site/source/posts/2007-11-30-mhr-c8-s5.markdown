@@ -1,0 +1,243 @@
+--- 
+categories: 
+- Many Happy Returns
+date: 2007/11/30 21:46:21
+tags: 
+- manuscript
+title: Many Happy Returns &#8212; Chapter 8 Scene 5
+comments: true
+published: true
+layout: post
+---
+
+Larry King:  Good evening all, and welcome to a special weekend edition of Larry King Live.  Tonight we'll be talking about two topics that are on everyone's mind:  death and time.  Recent events have led all of us to question what we knew -- or what we thought we knew -- about the nature of these two important elements of our lives.  Mostly we have only new questions about death and time.  We will talk to people tonight who might be able to answer some of those questions.  Our first guest is an expert on time, Doctor Itzhak Bars of the University of Southern California in Los Angeles.  Doctor Bars, what do  you make of the events of the past...  Well, I don't know what word to use.  What do you make of the loop in time.
+
+Bars:  Honestly, Larry, it was as big a surprise to me as it was to everyone else.
+
+King:  You've developed an unusual theory about time.  You say that there are <em>two</em> dimensions of time.
+
+Bars:  Yes, that's right.  There's the normal time dimension that we're all familiar with, that we all experience.  And there's a second time dimension that we don't interact with; at least not in a way that we experience directly.
+
+King:  Then how do you know that this second dimension exists?
+
+Bars:  Because it helps to simplify some aspects of what is called the Standard Model of subatomic physics.  And it answers one of the major questions about the standard model:  How gravity relates to the other three fundamental physical forces -- or the one other fundamental force, depending on whethe ryou see the electroweak force as one, two, or three forces.
+
+King:  Is this the so-called Grand Unified Theory that scientists have been seeking?
+
+Bars:  Not quite, but it does move our understanding a step or two in the direction of a Grand Unified Theory.  What my theory suggests is that -- well, let me back up for a minute.  First, I say that there are two extra dimensions, one of time and one of space.  So instead of the usual four dimensions that people talk about, the three dimensions of space plus one dimension of time, there are actually <em>six</em> dimensions; four dimensions of space and two of time.
+
+King:  And that simplifies phusics?  It sounds as if it makes physics more complex.
+
+Bars:  It's more complex than the way the average person thinks about space and time, if they think about it at all.  But of course we've known since the Standard Model became the standard that it didn't explain everything we want it to explain.  We've known that we have questions that the Standard Model just doesn't answer.  So one possibility is that reality is more complex than the Standard Model suggests.  Another is that a different model, a slightly modified model, might actually describe reality in a simpler way.  That's what I think my T2 model of time does.  It actually simplifies our understanding of the forces and particles that make up the physical world.  Not compared with how most people think of space and time, but compared with the Standard Model and the many patches people have applied to it to try to make it account for everything we have observed.
+
+King:  If we don't experience the extra dimension -- the extra dimensions -- what good is it?
+
+Bars:  For most people it doesn't do anything useful at all. But for physicists, it's very helpful.  It says that the world we see around us is not all there is.  The real world that we see is like a shadow of the six-dimensional world.  And depending on how we observe the shadow -- what angle we choose to observe and analyze it from, -- we get a completely different reality.  We're observing the real, six-dimensiona universe from one perspective, and that's what produces the shadow that we observe.
+
+King:  Could we observe a different shadow, is that what you're saying?
+
+Bars:  We can't observe the other possible shadows directly, but we can get hints of them.  For example, there's an extension of the Standard Model known as supersymmetry.  In the supersymmetry model, each of the particles in the Standard Model has a superpartner, a companion particle that is heavier than the particle in the Standard Model.  Each of the four-dimensional models of time and space say that these superpartners -- if we can ever observe them -- will have a given set of properties such as mass and spin and electrical charge.  My six-dimensional model places different constraints on those superpartners.  That was one of the things we were hoping to learn from the LHC.
+
+King:  That's the Large Hadron Collider that we've heard so much about the last few days?
+
+Bars:  Yes, that's right.
+
+King:  What do you make of the shutting down of the collider?
+
+Bars:  Well, on the one hand it's a tragedy, because within hours of starting up it produced a result that particle physicists have been andicipating for three or four decates.
+
+King:  That's the Higgs boson?
+
+Bars:  Yes.  So that was a result of immense importance to science, within hours of the LHC starting up for the first time.  So clearly the potentioal for what we could learn from the LHC -- what we could have learned from it -- is enormous.  But of course I also understand the safety concerns.
+
+King:  So how do you explain the time loops?  How does your idea of two-dimensional time help to explain it?
+
+Bars:  Well, I don't know, exactly.  You have to understand that this is new to me, too.  I certainly didn't predict that what we're experiencing was possible.  In fact, my model actually helped to explain some of the questions in the Standard Model about why time flows in one direction and not the other.  It actually helped to explain why time travel is impossible.  It showed where some of the constraints come from, including the constraints that prevent sending matter or even information into the past.
+
+King:  So this is all science fiction even to you?
+
+Bars:  Well, yes, except that it's really happened.
+
+King:  So is that what happened?  We've all gone back in time?
+
+Bars:  Well, that's what's so odd about this.  Our bodies <em>didn't</em> go back in time.  Only our minds did.
+
+King:  But our bodies are still here, too.
+
+Bars:  Actually, they aren't the bodies that we jad on August ninth are gone.  They don't exist in our reality any more.  Our minds seem to have traveled back into the past and taken over the bodies we had then.  It's as if we are possessed, but by our future selves.
+
+King:  Why did our consciousness survive the loop?  Or as you put it, why did our consciousness go back in time, all by itself?
+
+Bars:  Again, I don't have an answer for that.  I'm not an expert in consciousness by any means.  You'd have to ask Sabrina Wheeler about that.
+
+King:  We will.  We have her scheduled for an upcoming show in the next cycle.  It's interesting that you mention her.  She, along with Fred Alan Wolf and a number of other scientists, suggest that consciousness is not just something that happens in our brains, but is actually more fundamental than that, a part of the universe in the same way that space and time and the usual forces are.  Is it possible that one of your extra dimensions is the dimension of consciousness?
+
+Bars:  No, I don't think so.  There are superficial similarities, of course.  My model and their ideas all posit a reality beyond what we can experience, detectable only indirectly through inference.  Byt the two extra dimensions in my model are definitely a space dimension and a time dimension.
+
+King:  So are they wrong?
+
+Bars:  Well, I'm not saying that.  You may know that there are other theories that include even more dimensions than my model.  String theory, for example, includes a sub-theory called M-theory, which includes eleven dimensions.  This theory is completely compatible with mine, though the "extra" seven dimensions in M-theory are different from my two additional dimensions.  To make M-theory and my theory compatible you have to add my two new dimensions to theirs.  So M-theory would then have thirteen dimensions.
+
+King:  You're not superstitious, are you?
+
+Bars:  No, not at all.  Now, it's possible that Wolf and Wheeler's consciousness dimension align with the extra dimensions of M-theory, but more likely they're talking about something that's more like a field or a force than a dimension.  The challeng with any theory like theirs or mine -- any theory that suggest that there are features of the universe beyond the ones that we have observed or even inferred so far -- is to find a way to test it.  So again, though I understand the reasons for shutting down the LHC, I do feel some sadness that we won't be able to benefit from it.
+
+King:  Would you start it up again if you had your way.
+
+Bars:  I might.  I'm not certain.  I might.
+
+King:  Well thank you for spending time with us, Doctor Bars.  What's next for you?
+
+Bars:  I am, of course, rethinking my theory to account for what we now know about the time loop.
+
+King:  And how is that going so far?
+
+Bars:  At this point I'm still searching for information.  There's an intriguing result from CERN and the LHC.  When they say that the LHC has been shut down, you have to understand that every time we cycle, we go back to a time when the LHC was fully operational.  Now, they are doing everything they can -- putting better and better procedures in place -- to shut down the LHC as fast as is possible at the beginning of each loop, but it does take some time.  A minute or so currently.  That may improve over time.  But in meantime, in that minute, they do generate events that offer information for us.  Of particular interest is an intriguing result reported by an MIT team working at CERN -- via blog, because the publication pipeline for the traditional refereed journals takes longer than the time loop allows -- that the the results that they observe from the collider do <em>not</em> repeat exactly with every cycle.  And some of the anomalies happen to soon to be affected by any changes in human activity.
+
+King:  What kinds of changes in human activity?
+
+Bars:  Well, I'm not talking about changes in the way the LHC is operated.  I'm talking about even subtler things.  The LHC, like some other colliders, is an extraordinarily precise instrument.  When the collider at Fermilab started up, they found interesting anomalies in their data.  At first they thought they had discovered something new about some fundamental particles, that the mass of some particles was subtly but noticeably different than other labs had measured.  But it turns out that their collider was picking up interference from a passing subway train.  The train had just enough mass to distort the beam of particles and create the anomalous results.  Once the researchers understood about the train, they could adjust for its effects.  And when they did that, the mass of the particle came out the same as every other lab had reported.  But it was an embarassment for the folks at Fermilab all the same.  So what I'm saying is that the anomalous results we're seeing in the LHC -- a different set of what are called fermions are created just at the start of each cycle -- are very likely not coming from anything people are doing.  And the actions of the physical universe otherwise seem to be identical with each loop, the sole exception being the actions of people and other conscious animals, and the effects of those actions.
+
+King:  And what's important about that?
+
+Bars:  There's something going on that producing a different set of fermions each time.  And that may give us clues about what is causing the time loop.  And, even more imortantly, in the last analysis, it may give us clues about the nature of space, time, and the universe.
+
+King:  Again, Doctor Bars, thank you for spending part of your evening with us.
+
+Bars:  My pleasure, Larry.
+
+King:  We turn next to an aspect of life that we don't often talk about here on Larry King Live, a topic that people often avoid talking about.  And that is:  death.  We have as our guests three people who have died during one or more of the cycles, and who have come back to tell about it.  Now, these are not what people call near-death experiences.  These are <em>actual</em> death experiences.  First, we have Cheryl Blanchard from here in New York City.  Cheryl, welcome.
+
+Cheryl:  Thank you, Larry.
+
+King:  Tell us about your death.  That sounds funny, doesn't it?
+
+Cheryl:  Yes, and my daughter has commented on that, in a way.  She calls me Zom now, in stead of Mom.
+
+King:  Zom meaning...
+
+Cheryl:  Zom being short for Zombie.  I'm her Zombie Mom.
+
+King:  What were you doing when you died?  How did it come about?
+
+Cheryl:  I was in Fletcher's Market on Avenue of the Americas, and a guy came in waving a gun.
+
+King:  What did you do?
+
+Cheryl:  I tried to dive behind the counter, but I slipped.  I think I probably sstartled the guy and made him nervous.
+
+King:  And what happened?
+
+Cheryl:  Well, he pointed his gun at my face, and the next thing I knew I was standing at my stove heating up Campbell's tomato soup.
+
+King:  When was this?  Which cycle?
+
+Cheryl:  I was killed during what they're calling cycle zero, before the time loop happened.  It was Friday night about nine o'clock.  And I was suddenly right back where I had been earlier that night, heating up my last can of tomato soup.  In fact, that's why I was out at Fletcher's.  I was buying more soup.
+
+King:  That's probably not a good marketing pitch for Campbell's.
+
+Cheryl:  No, I don't think they'll be seeking my endorsement.
+
+King:  Sitting next to Cheryl is Alfredo Mendoza, a water skiing instructor from Winter Haven, Florida.  Alfredo, what were you doing in New York?
+
+Alfredo:  I'm visiting with my daughter.  We went to see David Letterman on Friday night.  Then on Saturday we were waiting in line to see Cats.  That's when I had a heart attack.  I couldn't find my digitalis in time, and even though the emergency response people did everything they could, I died in the ambulance.  It surprised the -- I was really surprised to find myself standing in line with my daughter outside the Ed Sullivan Theater.  I mean, Dave did a good show, but it sure wasn't heaven.  It was too damned -- It was too cold in there, for one thing.
+
+Larry:  Well, David is a sweater, or so the rumor goes.
+
+Alfredo:  He said he just didn't want us to fall asleep.
+
+Larry:  So did you go to the show a second time?
+
+Alfredo:  No, they cancelled it.
+
+Larry:  Which cycle was that?
+
+Alfredo:  Cycle zero when I died.  Cycle one when I was back in line at the Sullivan.
+
+Larry:  So what happened on Saturday night?  On cycle one, I mean.
+
+Alfredo:  Nothing.  That was surprising.  It turned out, my daughter told me, that I had left my digitalis in the hotel room, which I never do.  So we both made sure that I had it with me on Saturday.  We went out to see what was happening on the streets -- It was pretty crazy.  People doing crazy stuff.  Robbing stores.  One guy was standing in the street yelling at people to come on into his store and take whatever they wanted.  Traffic was a crawl.  Lots of cars were abandoned -- I don't know whether that was the cause or the effect of the traffic problem  Maybe both.  Anyway, I sort of wanted to be out in the excitement at 10:30, to see what kind of craziness would happen at that time, when that first loop time approached.  But when it got to be near the time of my heart attack, we changed plans.  If I had another heart attack at that time, I'd want to be nearer to help.  So we went to some nearby hospital and waited.
+
+Larry:  And what happened?
+
+Alfredo:  Nothing happened.  My daughter and I held hands for a long time, just in case.  But nothing happened.  The time came and went.  I don't know why.  I guess because I did different things, I skipped whatever it was that had triggered the heart attack.  Maybe it was just standing in line that did it, I don't know.  The straw that broke the camel's back.  But the second Saturday I didn't have a heart attack.  So we waited for a while just to be sure.  The emergency room had plenty of excitement to watch, though, because it turns out that people were doing all kinds of crazy stuff.  Sad stuff, mostly, with people hurting themselves.  A lot of failed suicides came through the door.  And a few successful ones, too.
+
+Larry:  Where were you when the second time loop happened?
+
+Alfredo:  Still in the emergency room lobby with my daughter.  And then the next instant we were in line for Letterman again.
+
+Larry:  Our third story is from Iris Hibbert.  Welcome Iris.  How did your death come about?
+
+Iris:  I shot myself with my gun.  And, yes, it was on purpose.  I guess I found the chaos too much to cope with.
+
+Larry:  What chaos?  Was this in cycle zero?
+
+Iris:  No, the chaos of the time loop.  This was in cycle one.
+
+Larry:  Okay, so this was in cycle one.  What were you doing when the first loop happened?
+
+Iris:  I was at home, in my apartent, watching Jacob's Ladder on TV.  You know that movie?  The guy, Jacob, has all kinds of hallucinations  So one minute I'm watching the guy in the movie see all of these wierd things happening, and the next I was on the subway, on the way home from work.  I had my briefcase in my hand and I was wearing my blue suit.  The same blue suit I had worn on Friday of cycle zero.  And I recognized the people around me.  They were the same people who had been there on Friday.  So there I was on the subway train, and I freaked out.  Just like everybody else, I suppose.  The train started jerking, I guess because the driver or conductor or whatever was probably freaking out, too.  People were yelling and screaming and crying and yelling, "Stop the train!  Let me off!"  It felt really claustrophobic, like the train had suddenly become much smaller or something.   But it was a total panic, and everybody seemed to feed of everybody else's emotions.  It was a real mess.  And when the train finally stopped and we got topside the chaos seemed just as crazy, if not moreso because now the panic wasn't just people, but people and cars.  Car accidents everywhere.  People abandoning their cars and screaming.  I heard some gun shots somewhere not far away.  And I guess the chaos overwhelmed my senses and I couldn't make sense of it all.  I thought the world was ending.  It was Judgment Day, armageddon.  So I went home, got my gun out of the closet and ... well, I did just like you see on TV.
+
+Larry:  And what happened next?
+
+Iris:  Then, of course, I was back on the subway again with the same people and the same suite and the same briefcase.  And everybody freaked out again, but it wasn't as bad, you know?  One lady kept saying, "I knew it, I knew it was going to happen again."
+
+Larry:  So you killed yourself, and then you were back on the subway.  Obviously you didn't kill yourself, because here you are telling the story.  What made you react differently the second time around?
+
+Iris:  Well, when I was alive again, I realized that God was sending me a message.  Not just giving me a second chance, but telling me no, it's not my time yet.  There's something else he has in mind for me, something else he wants me to do.
+
+Larry:  God has a mission for you?
+
+Iris:  Yes, obviously.  I only wish I knew what it was.
+
+Larry:  Something that strikes me about all of your stories is that for all three of you, there was nothing between the moment of death and the moment of finding yourself back on Friday evening.  Is that right?
+
+Alfredo:  Yes.  I remember realizing that I was dying, and then immediately I was in line at the Ed Sullivan Theater.
+
+Larry:  What did you make of that aspect of it, the instant-ness of it?
+
+Alfredo:  I was confused.  I didn't expect the afterlife to look like the Ed Sullivan Theater, that's for sure.  But I had some thoughts similar to Iris's, that maybe God has more in store for me.
+
+Larry:  So you consider yourself religious?
+
+Alfredo:  Yes, more or less.  I haven't attended church for a long time, but yes, I believe in God.
+
+Larry:  And you, Cheryl?
+
+Cheryl:  It was exactly the opposite for me.  I expected that there would be no afterlife, and I was very surprised to find out that there was one.  But I didn't expect the afterlife to consist of heating up Campbell's tomato soup.
+
+Larry:  Do you believe in God?
+
+Cheryl:  No, I don't.
+
+Larry:  And these events don't make you reconsider?
+
+Cheryl:  Well, yes, I admit they did.  At first I thought, if anything could be interpreted as a sign from God, this is it.  I mean, going back in time?  I don't know a lot about science, but they always sayt hat time travel is scientifically impossible.  So, yeah, I reconsidered for a minute.  But then I thought, there's probably some scientific explanation.  And besides, why would God do something like this?  It doesn't make sense.
+
+Larry:  Iris and Alfredo, what do you think it means that you went right from dying to right back at Friday night?  No tunnel with a bright light, no meeting with loved ones.  What did you make of that?
+
+Iris:  I don't know.  I think it means that it wasn't a real death, in a way.  I'll know it's my real death when I meet Jesus.
+
+Alfredo:  I hadn't really thought about it, but I guess that's how it is for me, too.
+
+Larry:  Do you want to take a call?  We have time for a call or two.
+
+Iris:  Sure.
+
+Larry:  The caller is Jack, from Louisville Kentucky.  Jack, your on with our guests.
+
+Jack:  I want to know abou the eights.
+
+Larry:  The eights?  What does that mean?
+
+Jack:  August 8, 2008.  That's 8/8/08.  Do you or your guests think that's a coincidence?
+
+Larry:  What does that have to do with our guests?
+
+Jack:  Think about it.  And we keep goint back to 5:28, right?  That's 9:28 Greenwich Mean Time.  In other words, it's eighty eight minutes past eight o'clock on 8/8/08.  I'll bet if you look at the exact time, it's 8 seconds past 5:28.  You really think that's a coincidence?
+
+Larry:  That's an intriguing observation, Jack.  I'm going to look into that.  Unfortunately, that's all we're going to have time for tonight.  I'd like to thank my guests Cheryl Blanchard, Alfredo Mendoza, and Iris Hibbert.  Next up is a special weekend edition of Anderson Cooper.  Anderson, what's on our schedule tonight?
+
+Cooper:  Thank you, Larry.  Tonight we will be counting down to ten thirty nine.  And we'll be talking with Kendal O'Brian, the Deputy Director of FEMA, the Federal Emergency Management Administration, about how to prepare in case there's another cycle.
+
+Larry:  Well, all right, I'm looking forward to that.

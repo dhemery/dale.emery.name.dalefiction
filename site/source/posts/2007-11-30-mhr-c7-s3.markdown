@@ -1,0 +1,33 @@
+--- 
+categories: 
+- Many Happy Returns
+date: 2007/11/30 21:18:19
+tags: 
+- manuscript
+title: Many Happy Returns &#8212; Chapter 7 Scene 3
+comments: true
+published: true
+layout: post
+---
+
+Ken Lessinger squinted at his computer monitor.
+
+<em>Not again.</em>
+
+The phone rang.  Ken picked it up.
+
+Before Ken could even say hello, Nola said, "Okay, Ken, explain it.  The collider was off this time.  So we <em>couldn't</em> have cause it.  Right?"
+
+"Oh, I think there's more to it than you know,"
+
+"You've got to stop saying stuff like that," Nola said.  "What now?"
+
+"The fermions are different again."
+
+"Different from what, from the first time?"
+
+"From the first time; from the second time.  This is a whole new signature."
+
+"I'll be right over," Nola said.
+
+Ken spun the energy spectra on the screen.  He fiddled with the colors and stacking order.  No matter how he looked at it, the data said the same thing.  The same weird thing.  The same impossible thing.

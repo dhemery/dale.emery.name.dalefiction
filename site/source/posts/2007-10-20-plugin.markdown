@@ -1,0 +1,13 @@
+--- 
+categories: 
+- Front Matter
+date: 2007/10/20 01:00:34
+tags: []
+
+title: NaNo Report Card Plugin
+comments: true
+published: true
+layout: post
+---
+
+That <em>NaNoWriMo Progress</em> info at the top of the sidebar is from a <a href="http://davidized.com/plugins/nanorc" title="NaNo report card plugin for WordPress.">NaNo report card</a> plugin for WordPress.  I hope it works come November.

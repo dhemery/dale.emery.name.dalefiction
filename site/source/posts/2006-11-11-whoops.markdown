@@ -1,0 +1,13 @@
+--- 
+categories: 
+- Jeremy Comes Home
+date: 2006/11/11 23:24:00
+tags: 
+- commentary
+title: Whoops.
+comments: true
+published: true
+layout: post
+---
+
+Whoops.  When I posted Chapter Four, I posted only the last half of the chapter.  I've fixed it, so now the post has the whole chapter.

@@ -1,0 +1,51 @@
+--- 
+categories: 
+- Many Happy Returns
+date: 2007/11/30 21:30:09
+tags: 
+- manuscript
+title: Many Happy Returns &#8212; Rynn in Space, Cycle 2
+comments: true
+published: true
+layout: post
+---
+
+Rynn Haney floated in space again.
+
+Houston had warned her that it might happen again.  Of course, they had no explanation for what was happening, but NASA engineers were experts in risk management, and when their people were in space they left no possibility unconsidered.  They weighed the possibility -- guessed, in other words, Rynn thought -- that the time loop would happen again.  Very low probability, given that CERN had shut the Large Hadron Collider down, but not zero probability.  They weighed the possibility that if it were to happen again it would happen at the same time.  This was harder to gauge, given that nobody knew what had happened at the later end of the loop to cause time to revert to the earlier end, so they could not predict when, if the triggering event happened at all, it would happen again.
+
+Rynn had been on edge for the duration of the last cycle, unable to sleep or even rest.  She was trained in a zillion kinds of specific emergencies, and trained in coping emotionally and intellectually with the unpredictable emergencies -- what former Sec Def Rumsfeld had called the unknown unknowns.
+
+Always be ready for anything.  That was the easy way to say it.  But that was beyond Rynn.  It was beyond any human, she thought.  Nobody could stand to be on edge all the time, waiting for anything to happen.  So you made assumptions and you acted as if they were true.  And when the assumption went spinning out the window -- or out of the space shuttle, as it were -- you called on your training.  Observe, orient, decide, act.  That was the mantra, that was Colonel Boyd's OODA loop.  Observe what is happening around you, orient yourself, make a decision, and act.  Easy to say, not so easy to do.  Each step was filled with traps.  In an emergency, there is too much information to observe, so you focus (if you can) on the most salient features.  This wasn't always easy, or even possible, because you may not know what features of the situation are salient.  Orienting depended on being able to pick out the salient features of the situation; but picking out the salient features depended on being oriented.  A catch twenty two.  Deciding was obviously problematic, especially on your first cycle through the OODA loop.  How can you make a good decision with horribly inadequate information and an unstable orientation?  But that was why you had to decide quickly, so that you could act.  Acting would produce new information that you could observe on your second pass through the OODA loop.
+
+Observe, orient, decide, act.
+
+It was very helpful if you could orient yourself before jumping into the emergency, if you had time to orient yourself.
+
+Bob Lyman, mission ground director in Houston, had prepared her with a countdown.  They didn't know, of course, whether the time anomaly would happen again.  Nobody knew.  But to be on the safe side, they had made the assumption -- knowing that it was an assumption -- that if the loop were going to happen, it would happen at the same time.
+
+"Atlantis, anomaly confirmed," the voice said in her ear.
+
+"Bonus EVA confirmed," Rynn said, "How many E tickets do I have left?"
+
+Bob said, "Prepare for reboarding."
+
+"I don't think that's a good idea, Bob," Rynn said.
+
+"We need you safe, Rynn.  Prepare to reboard."
+
+"What about this gash?  I have to spackle it."
+
+"We can decide that once you're inside.  Prepare to reboard.  Please, Rynn.  We can decide once you're inside."
+
+"I've opened the NOAX already.  It's use it or lose it time.  We don't get a second chance to repair this gash."
+
+"We need you <em>safe</em> Rynn.  Prepare to reboard.  That's an order."
+
+Time for step three, Rynn thought.  Decide.
+
+"Sir, with all due respect, if I don't fix the skin now, in the next 20 minutes, I'm putting all seven of us at risk."
+
+Several seconds passed in silence.
+
+Rynn wanted to make sure Houston was crystal clear about her intentions.  "I'm going to patch the skin, Bob."

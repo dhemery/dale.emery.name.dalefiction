@@ -1,0 +1,149 @@
+--- 
+categories: 
+- Many Happy Returns
+date: 2007/11/30 21:32:17
+tags: 
+- manuscript
+title: Many Happy Returns &#8212; Chapter 8 Scene 1
+comments: true
+published: true
+layout: post
+---
+
+Ken Lessinger pointed at the computer screen.
+
+Nola Ulrich said, "That doesn't make sense."
+
+"I know.  The again, the changes that happened yesterday didn't make sense either."
+
+"I don't think that's the right word."
+
+"What's not the right word?"
+
+"Yesterday."
+
+"So...  The changes that happened in the... last cycle... didn't make sense either.  One:  the fermion signature changed when, as far as we can tell, everything else about the universe was exactly the same.  Two:  The fermion signature -- the <em>changed</em> fermion signature -- is impossible.  It's not allowed by the standard model."
+
+"So," Nola said as she bopped Ken on the head, "you can accept time loops, but you can't accept forbidden fermions?"
+
+"Hrmphh."
+
+"So we have to figure that this is all connected, right?"
+
+"Right."
+
+"What did you find out about yesterday's -- excuse me -- last cycle's fermion signature?"
+
+"Nothing.  They don't fit anywhere into the Standard Model.  Nobody is even suggesting that such a signature is possible.  I found nothing."
+
+"The case of the barking dog."
+
+"What?"
+
+"Sherlock Holmes.  The case of the barking dog.  The dog didn't bark when the murderer was doing the deed.  Holmes noticed that that was important.  Why wouldn't the dog bark?"
+
+"Because it knew the murderer."
+
+"Exactly.  So what I'm saying is," Nola said, "It's significant that you didn't find anything.  That's what you found:  That there was nothing to find."
+
+"So... in this barking dog scenario, what's the murderer?  And how does this dog, this 'nothing to find', know the murderer?"
+
+"Sorry, I didn't mean to take the metaphor that far.  I was just saying that the important fact here is that there is no theory.  That's not a lack of evidence, that's evidence.  It means that nobody predicted this.  This is outside of not just the Standard Model, but anyone else's model.  So what does that tell us?"
+
+"That it's weird," Ken said, scratching his head.  "Nola, what are you getting at?"
+
+"I don't know.  I'm not even sure that I'm getting at anything.  Just noticing.  But let's follow this chain of thought and see where it goes, okay?"
+
+"Okay.  So where does it go?"
+
+"All we know so far is that this doesn't fit the known laws of physics."
+
+"So there are unknown laws."
+
+"Or," Nola said, "unknown physics."
+
+"Meaning what?"
+
+"Meaning that we're dealing with some phenomenon where other rules of physics come into play."
+
+"Like the big bang."
+
+"Right.  As you know, Ken, our laws take us back only so far toward the big bang.  The first few microseconds after the big bang are a mystery to us.  And why?"
+
+"Because the conditions were so different then that the laws of physics as we know them -- the laws as they apply in our everyday world -- don't apply."
+
+"So, maybe we're dealing with something like that here.  Conditions where normal physics doesn't apply."
+
+"You think we created another universe?"
+
+"Or," said Nola, "a black hole."
+
+"You think we created a black hole?"
+
+"I don't know."
+
+"So where's the black hole?"
+
+"Well, there's something else we know.  There are two ends to this time loop."
+
+"You mean it's going to stop looping?"
+
+"Well, I don't know whether it's going to stop.  I'm talking about something else.  At 2:39 am on Sunday, time reverts to 9:28 pm on Friday.  One end of the loop is the moment that we revert to, late Friday.  That's the moment when we saw the Higgs.  But what happened at the other end of the loop, the moment that we reverted from?"
+
+"Is that when you think the black hole happened?  But we didn't see anything at that --"
+
+"Of <em>course</em> we didn't see anything, because time looped before we could see the evidence.  The evidence of the black hole is beyond the end of the time loop, and we can't get there."
+
+"So how are we going to find out whether there even <em>is</em> a black hole?"
+
+"I don't know.  All we know is that <em>something</em> is causing a loop in time.  And that <em>something</em> -- maybe the same someting, maybe a different something -- is causing fermions to show up that look like muon decay products, but without the mouns.  And the specific batch of fermions is outside the Standard Model."
+
+"Is it possible," Ken said, "that the muons <em>are</em> being created?"
+
+"The where are they?"
+
+"They're at the other end of the time loop."
+
+"That's nuts," Nola said.  "It's just nuts enough to be interesting.  So something creates the muons, and before they can decay into fermions, time folds back on itself.  Is there a way to detect the muons?"
+
+"We probably <em>are</em> detecting them.  At least the sensors are.  And the data might even reach the computers before the loop.  But there's not enough time to analyze the data and put a notice onto the computer screen.  And even if there were, there wouldn't be enough time for our brains to register it before the time loop."
+
+"Are you <em>sure</em> there's no time?"
+
+"No, of course not.  But it takes half a second or so for our brains to register what's coming in through our senses.  If the loop happens between them time when the photons hit our eyes and the time when our brains register the information, we'll never notice it."
+
+"But our minds survive the time loops.  What if the signal hits our eyes microseconds before the time loop hits.  Wouldn't it register in our minds?  Wouldn't we register it half a second later in subjective time, at the beginning of the next cycle?"
+
+"I don't know.  I think that depends on the quirks of how our minds work.  Is your optic nerve involved directly in your consciousness?  Or is it just an input, and only our brains have anything to do with consciousness?"
+
+"So," Nola said, "We aren't sure whether we have any way to detect the muons -- if there are any -- at the... downstream end of the time loop."
+
+"No.  I guess we could set up the detectors to do the best they can to translate the signal to the computers, and the computers to translate it to the screen, as quickly as possible.  It's worth a try."
+
+"But wait a minute," said Nola.  "There's something else that survives the loop.  The <em>muons</em> do, or the fermions do, or ... what ... the process that turns muons into fermions."
+
+"So you think the fermions exist at the downstream end of the loop, and somehow survive into the upstream end?"
+
+"I don't know.  Maybe."
+
+"Then that's <em>two</em> things that survive.  Consciousness, and the fermions.  And not just any fermions, but those specific fermions.  Why those and not others?"
+
+"Like I said, I have no idea.  I'm just thinking out loud here, not making any real claims."
+
+"So what's the missing link?  What's pumping the muons out of one end of the loop and spitting out fermions at the other end?"
+
+"Why," said Ken, "It's the MuFe pump, of course."
+
+"What the hell is a muffie pump?"
+
+Ken laughed.  "It's nothing.  I just made it up.  Something that sucks up muons and spits out fermions is a muon-fermion pump.  A MuFe pump."
+
+"Sounds like something you'd buy at a porn shop," Nola said.
+
+Ken looked away.  "I'm trying to picture that..." he said.
+
+"You're such a <em>man</em>."
+
+"<em>You</em> brought it up!" Ken said.  "Hey, now I know what I can get you for Christmas."
+
+"If there ever <em>is</em> another Christmas," Nola said.

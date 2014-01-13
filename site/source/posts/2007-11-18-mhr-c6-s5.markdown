@@ -1,0 +1,125 @@
+--- 
+categories: 
+- Many Happy Returns
+date: 2007/11/18 00:29:16
+tags: 
+- manuscript
+title: Many Happy Returns &#8212; Chapter 6 Scene 5
+comments: true
+published: true
+layout: post
+---
+
+Ken Lessinger squinted at his computer monitor.  He leaned forward, trying to make sense of what he was seeing.  The curves on his screen showed the energy levels of the particles detected by the Large Hadron Collider's detectors at 21:28:08 UTC, August 8, 2008.  In particular, it showed the data from five microseconds before to five microseconds after brief life of the first unambiguous detection of a Higgs Boson.
+
+But the signature Ken was looking at now was different.  When he had studied the data earlier, before the time anomaly, it had clearly showed the four neutrinos into which the Higgs had ultimately decayed.  And to the great delight of thousands of particle physicists at CERN, those four resulting "final state" neutrinos had been muons.
+
+The Higgs itself was, of course, undetectable, as were some of the intermediate products in the decay chain between the Higgs and the mons.  Hundreds of technicians had spent the next 29 hours 11 minutes scratching their heads and trying to discern the exact decay chain that had led to the muon quartet.  Had a single Higgs emerged and decayed into a pair of undetectable W bosons, each of which had then decayed into a pair of muons?  If so, that would set an upper bound on the mass of the Higgs, and open the door for scores of more precise experiments and observations over the coming months.
+
+And if the muons turned out to be a pair of muons and a pair of anti-muons, that would indicate that the Higgs discovery was even more momentous than anticipated.  It would mean that they had observed not a single Higgs boson, but a much rarer event, the production of a pair of doubly-charged Higgses.  CERN's chief statistician Jackie Andros had pegged the likelihood of a pair of doubly-charged Higgs bosons at once chance in about one trillion scatterings of protons and antiprotons.  One in a trillion, and maybe it had happened on the first try.
+
+The possibility sent an electric charge through CERN.  A doubly-charged Higgs boson would violate some of the fundamental rules of the Standard Model that summarized all current knowledge of particle physics.  A violation of that magnitude all but guaranteed years of new discoveries and new theories for hundreds or thousands of experimental particle physicists.
+
+Twenty nine hours eleven minutes later, at which instant the theories were still flying and the bets were still unsettled, time had looped back on itself.  One second it was 02:39:11 UTC, Sunday, August 10, 2008, and the next it was, inexplicably, 21:28:08 UTC, August 8, 2008, the exact instant, down to the nanosecond, at which the Higgs, or pair of Higgses, had begin their extremely brief existence.
+
+Ken had found himself suddenly awake and suddenly on the cot in his office, at which he had lain for a brief nap shortly after 9 o'clock on Friday night.  After Ken threw up, after he regained his bearings, after he realized that the moment to which time had reverted could not be a coincidence, he had turned his computer on and started the software he used to analyze the particle detection data.
+
+And his mind began to spin.
+
+Ken Lessinger picked up the phone and dialed.
+
+On the other end of the line, in an office in a building three hundred yards away, his research partner Nola Uldritch answered the phone.
+
+"Nola, you'd better come over here.  Something's happened."
+
+"No, shit, Sherlock."
+
+"No, not the time anomaly.  Something else.  And it may be just as big."
+
+"Ken, can it wait?  We have people passed out from shock over here."
+
+"Is there someone attending to them?"
+
+"Of course."
+
+"Then get over here.  Something's wrong with the data."
+
+"What do you mean, wrong?"
+
+"I need to show you.  Are you coming or not?"
+
+"I'll be there in three minutes," Nola said.
+
+Ken checked the data before and after the Higgs event.  The data before and after was, as far as he could tell, as he remembered it.  But that didn't mean anything.  He had spent the last day and a quarter focusing intently on the Higgs signature, and hadn't paid much attention to the earlier or later data.
+
+He checked the Higgs data again.  The muon signatures were gone, and yet --
+
+From the doorway, Nola said, "What's so important?"
+
+"Look at this," Ken said, and pointed at his screen.
+
+Nola leaned over the desk and looked at Ken's screen.  "What's this?"
+
+"That's the Higgs signature."
+
+"No it isn't.  Where are the muons?"
+
+"They're gone."
+
+Nola looked at Ken quizzically.  "What do you mean, gone?"
+
+"I mean what people usually mean when they say 'gone'.  I mean the muons aren't there any more."
+
+"The data got erased?"
+
+"No, look," Ken said, an pointed to an area of his sceen, an irregular, wobbly horizontal white line.  "There's data there.  That's what the detectors were picking up.  So they were operating normally."
+
+"Then where are the muon signatures?"
+
+"They're gone."
+
+"How could they be gone?  That doesn't make any sense."
+
+"Right.  And here's what's worse."  Ken scrolled the display to the right, showing the next few microseconds after where the Higgs event had been.  "The bloom of fermions is still there, right where it was.  Right where you'd expect it if --"
+
+"That's crazy.  If there were no muons to decay into fermions, where did the fermions come from?"
+
+"That's exactly what I was wondering."
+
+Nola said, "Get out of the way."  She sat down in Ken's chair and grabbed the mouse.  She clicked several settings.  The display zoomed in on the fermion bloom and rotated to show a dozen or so peaks stacked one behind the other.  She changed several more settings.  Two of the peaks changed from white to red; two others from white to blue; and a third from white to green.  The other peaks remained white.
+
+"Jesus," Ken said.
+
+Nola said, "I don't think it was like that.  Earlier those were just the usual muon decay signatures, electron plus electron-antineutrino plus muon-neutrino.  All of them."
+
+"How did you color them?"
+
+"White for electrons, red for hard protons, blue for positrons, green for neutrinos."
+
+"That can't be."
+
+"And yet, there it is."
+
+"But the Standard Model forbids this."
+
+"Yeah, well observation trumps theory."
+
+Ken scratched his head.  "But we can't trust the data, can we?  I mean, where are the muons that these fermions came from?  Clearly the data is wrong."
+
+"Awfully coincidental, the data going wrong at that exact instant, wouldn't you say?"
+
+"What are you saying?"
+
+"I'm saying," said Nola, "Suppose that the data is right.  Suppose this is what the detectors picked up."
+
+"Okay, we get fermions all the time.  But not that pattern.  Are you saying that that exact fermion signature just happened to show up at the exact instant where we would expect it if a Higgs had appeared?  That's a little hard to swallow."
+
+"So it seems we have a choice of coincidences.  Either the data chose that precise moment to go wrong, or something beyond our experience made muons disappear."
+
+"Bah," Ken said.  "You know I don't believe in coincidence."
+
+"So what's your theory?"
+
+"I don't have one.  But this is all related somehow.  The Higgs, the time anomaly, the missing muons -- hey, <em>The Case of the Missing Muons, </em>that would make a good Holmes story -- the forbidden fermion clusters.  It all has to be related somehow, doesn't it?"
+
+"I think so, yes.  Now we just have to find how it all fits together."

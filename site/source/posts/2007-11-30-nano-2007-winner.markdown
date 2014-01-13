@@ -1,0 +1,19 @@
+--- 
+categories: 
+- Many Happy Returns
+date: 2007/11/30 23:51:25
+tags: 
+- commentary
+title: 50K!
+comments: true
+published: true
+layout: post
+---
+
+Yay, I won NaNoWriMo 2007!
+
+50834 words of fiction in November.
+
+And I did it without a plot!
+
+<a href="http://www.dale.emery.name/nano/wp-content/uploads/2007/11/nano_07_winner_large.gif" title="NaNoWriMo Winner"><img src="http://www.dale.emery.name/nano/wp-content/uploads/2007/11/nano_07_winner_large.gif" alt="NaNoWriMo Winner" /></a>

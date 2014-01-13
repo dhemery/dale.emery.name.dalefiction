@@ -1,0 +1,529 @@
+--- 
+categories: 
+- Many Happy Returns
+date: 2007/11/30 20:57:09
+tags: 
+- manuscript
+title: Many Happy Returns &#8212; Chapter 6 Scene 6
+comments: true
+published: true
+layout: post
+---
+
+Charlie Rose:  Good evening.  Our topic tonight is, of course, the topic that's on everyone's minds.  The time anomaly that we all experienced on Saturday.  Our guests include scientists and philosophers who can shed some light on the events of the past forty hours or so.  First is Doctor Barnard Cormier, the Director General of CERN, the European Organization for Nuclear Research.  Doctor Cormier, welcome.
+
+Cormier:  Thank you, Charlie.  Please, call me Bernie.
+
+Charlie:  Our next guest is Doctor Johannes Taurejo, the director of the Center for Responsibility in High-Energy Physics Research, and a long-time critic of CERN's Large Hadron Collider project.  Welcome, Doctor Taurejo.
+
+Taurejo:  I'm pleased to be here.  Please, call me John.
+
+Charlie:  Our third guest is Doctor Sabrina Wheeler, the Stanford University Distinguished Professor of Consciousness Philosophy, whose most recent book is <em>The Consciousness Gap</em>.  Doctor Wheeler, thank you for being with us tonight.
+
+Wheeler:  My pleasure, Charlie.  And please call me Sabrina.
+
+Charlie:  Our final guest is the popular author and speaker Doctor Chopak Deepra, founder and Director of Enlightenment at the Deepra Center for New Consciousness in San Augustin, California.  Doctor Chopra, welcome.
+
+Chopra:  It is my great honor to be here.  And please, call me Doctor Chopra.
+
+Charlie:  Bernie, let me start with you.  Your organization, CERN, seems to be at the center of the unprecedented events of the last day and a half.  In particular, the time anomaly seems to coincide with the timing of an event of enormous importance to experimental physicists, the detection of the Higgs Boson.  What can you tell us about that?
+
+Bernie:  It appears that time reverted to the approximately the time when we produced a Higgs boson in our LHC, our Large Hadron Collider in Geneva.  We have a team of scientests now trying to determine how closely the two events correlate in time.
+
+Charlie:  What is the Large Hadron Collider?
+
+Bernie:  It is the world's largest particle accelerator -- a circular underground tunnel sixteen miles in diamater beneath Switzerland and France.  In the LHC we accelerate hadrons --"
+
+Charlie:  You say particle accelerator.  Is that what is sometimes known as an atom smasher?
+
+Bernie:  Yes, though technically it smashes subatomic particles.  In the LHC, we accelerate hadrons  --  a class of subatomic particles that gives the Large Hadron Collider its name -- in opposite directions around the ring at speeds very close to the speed of light.  These hadrons collide at predetermined locations inside enormously sophisticated particle detectors.  When the accelerated hadrons collide, the enormous energy of the collision transforms the particles into other particles.  The exact nature of these transformations, and the exact energies of the resulting particles, is if great interest to experimental and theoretical particle physicists around the world.
+
+Charlie:  Can you explain, simply if possible, what a Higgs boson is, and what makes it so important to physicists?
+
+Bernie:  Let me start by describing two fundamental questions left open in the Standard Model of particle physics.  The Standard Model describes elegantly and relatively simply where all of the forces of physics come from.  Each physical force is created by an exchange of what are called particles, particles that are not currently known to have any substructure.  For example, the electromagnetic force is mediated by elementary particles called photons.  We also know the particles that mediate two of the other fundamantal forces, the weak nuclear force and the strong nuclear force, which affect the composition of atomic nuclei.  The one force for which we have not observed the mediating elementary particle is the force of gravity.  To fill this hole in our understanding, the Standard Model posits a particle called the graviton.
+
+John:  Get to the point.
+
+Charlie:  Let him finish.
+
+John:  Let him get to the point!  I want to hear how he justifies what he's done.
+
+Deepra:  It's all vibrations.
+
+John:  Shut up.
+
+Charlie:  Bernie, You mentioned two fundamental questions that the Standard Model has not answered yet.  The first is the particle responsible for gravitational force.  What's the other?
+
+Bernie:  The other question is where mass comes from.  How is it that particles have come to have mass at all?  In the early 1960s, Peter Higgs and his colleagues posited something that came to be known as the Higgs field.  It is from this Higgs field that particles come to have mass, similar to the way that particles come to have magnetic charge from the magnetic field.  Now, one the aspects of this theoretical Higgs field is that, like other fields, it is exists as a field of particles that carry the minimum sized chunk, or quantum, of the field.  So the Higgs field, according to the theory, will have some quantum particle.  And that particle is called the Higgs boson.  Now,  nobody has ever detected the Higgs boson for certain, and until we unambiguously detect one, we can't be sure that the Higgs field is indeed the mechanism by which elementary particles acquire mass.  And until we detect several, we can't fill in some of the details of the Standard model.  Now, there have been several observations over the past few years -- such as the observation at Fermilab -- that could be interpreted as a Higgs boson of one form or another.  But the data aren't clear.  So we continue the search at CERN with the LHC colliding photons at enormous energies to create and observe a Higgs boson.
+
+John:  And destroy the universe.
+
+Charlie:  John, you have objected to the LHC project since its announcement in the early 1990s.  What is your primary objection?
+
+John:  That it will destroy the universe.
+
+Deepra:  You cannot destroy the universe.  The universe is timeless, a vibration in the void --
+
+John:  Shut up.
+
+Charlie:  Where does your fear come from?
+
+John:  The point of the Large Hadron Collider is to recreate conditions that existed at the start of the universe, at the big bang itself.  Higgs bosons just don't happen at normal energies.  In order to create one, you have to have energies like that existed during the big bang.
+
+Charlie:  Do you mean that the LHC could itself create another big bang?  Create another universe?
+
+John:  That's right.  In fact, that's the <em>intent</em>.
+
+Charlie:  Would that be a separate universe from ours?  Or a universe <em>inside</em> ours, if that means anything at all?  The idea of a tiny universe inside ours boggles the mind.
+
+Deepra:  It would create another vibration that would harmonize with ours.  The vibrations --
+
+John:  Shut up.  It would create a universe that would destroy ours.  Take a look at the disasters that have already been created by the creation of the first Higgs boson.  People suddenly found themselves in traffic at highway speeds.  People all over the world have died because of this.  We don't have the estimates yet, but it could be in the tens of millions of people.  And then there are the people who couldn't cope with what had happened to them and killed themselves.  We're hearing reports of people killing their entire families, sure that the rapture has come, or that aliens have hit is with some kind of time beam.  Society has been blown apart, and it's all because these so-called scientists didn't heed the warnings.  Not just my warnings, but their own.
+
+Bernie:  Our intention was --
+
+John:  Your intention was to create interactions at energies beyond any every produced on earth.  Isn't that right?
+
+Bernie:  Yes, because Higgs bosons don't exist at lower --
+
+John:  And what do your models of physics say will happen at those energies?
+
+Bernie:  That's one of the things we're trying to find out.  How much mass does the Higgs boson have?  What is the tensor strength of the Higgs field?  At what energies do the spin symmetries break down and form mass?
+
+John:  You see, Charlie?  The one thing they <em>do</em> know is that their models don't apply at the energies they are trying to create.  With everything that is known in all of physics, every model that's been created in all of history, we don't know what will happen when we start smashing things together at those energies.  I've been saying for years that these experiments are dangerous and irresponsible.  And for years I've been marginalized as against scientific progress.  And now I've been vindicated, but it's too late.  There's no satisfaction in this for me.  I'm deeply ashamed that I couldn't get CERN or the governments of Europe to listen to me.
+
+Charlie:  Are you saying that CERN somehow caused this time <em>anomaly</em>?  Do you have anthing to back up that accusation?
+
+John:  Just look at the timing.  Just as the LHC smashed particles together with enough energy to create a Higgs boson, just as it recreated conditions that have not existed in the universe since the big bang itself, time starts to loop on itself.  Are you saying that that's a coincidence?
+
+Charlie:  I don't know enough about this to have an opinion.  But what about you, Doctor Cormier?
+
+Bernie:  Please, call me Bernie.
+
+John:  Because he wants to burn up the universe in a grand experiment.
+
+Bernie:  The correlation between the creation of the Higgs and the start of the time loop is of great concern to us.  Our analysts have determined that the two events coincided to within 1 microsecond, one millionth of a second.
+
+John:  That's pretty sloppy.
+
+Charlie:  What do you mean, sloppy?  A millionth of a second seems extraordinarily accurate to me.
+
+John:  Not at the scales where these so-called scientists are working.  A microsecond is like an eternity.  They typically measure the timing of events to the precision of <em>femtoseconds</em>.  A femtosecond is one billionth of a microsecond, a million billionth of a second.  So not knowing to better than a microsecond is like someone asking you what street you parked your car on, and you can tell them any more precisely than "somewhere between Maple Street and the Oort Cloud," which is 50,000 times as far away as the sun.
+
+Charlie:  Is that true, Bernie?  A millionth of a second sounded pretty good to me.  Is it true that that's not your usual precision?
+
+Bernie:  Well, yes.  There have been some anomalies in the data.
+
+John:  Oh, here we go.
+
+Charlie:  What kind of anomalies?
+
+Bernie:  Some of... some of the data seems to be missing.  The Higgs boson is a very short-lived particle.  When it comes into existence, it almost immediately decays into a number of other particles based on its charge, particles that we cannot detect directly except by the particles that they in turn decay into.  In the case of this particular Higgs boson, the detected particles were all muons.  And these muons decayed, at a somewhat more leisurely pace, into a variety of fermions, which we also readily detected.  The first anomaly is that the muon energies no longer appear on our CMS data.
+
+Charlie:  What is CMS data?
+
+Bernie:  Sorry, that's data from our Compact Muon Solenoid, or CMS.  That's the thing that detects the muons, as well as other particles.
+
+John:  And all of the children of the Higgs are gone?
+
+Bernie:  No, and that's even more puzzling.  We still have the data for the fermions, but not for the muons.
+
+John:  You guys obviously have no idea what you are doing, which is exactly what I've been trying to tell the world all along.  Thanks for confirming that for us!
+
+Charlie:  Bernie, I don't understand the significance of the anomaly you've just described.  Can you explain it simply?
+
+John:  <em>Simplistically</em>, maybe.
+
+Deepra:  Shut up.
+
+Bernie:  Remember the chain of particles.  The Higgs decays into intermediate particles of a variety of kinds.  These decayed, in this case, into muons.  And the muons decayed into fermions.  So we have:  Higgs, intermediate particles, muons, and fermions.  Are you with me so far?
+
+Charlie:  Yes.
+
+Bernie:  We have the data for the last particles in the chain, the fermions.  We don't have the data for the particles before them in the chain, the muons that decayed into the fermions.
+
+John:  You lost the data.
+
+Bernie:  That's one of the possibilities, yes.
+
+Charlie:  What are the other possibilties?
+
+Bernie:  Some phenomenon that we haven't yet identified created the fermions.
+
+Charlie:  Can fermions come from somewhere other than muons?
+
+Bernie:  Oh, yes.  Lots of processes create fermions.  In fact, that's one of our biggest challenges.  How do we distinguish the Higgs boson from other processes that create the same decay products.  For that, we rely on statistics.  Some signatures, specific groupings of particular kinds of muons or fermions, are so rarely produced by other processes that we can safely conclude --
+
+John:  Safely, my ass.
+
+Bernie:  We can conclude with confidence that they resulted from the decay of a Higgs.  In this case, the data were clear.
+
+John:  Until you lost the data.
+
+Bernie:  Well, again, we're not sure we lost it.  Perhaps the data were wiped out somehow in the time anomaly.
+
+John:  Which you created.
+
+Bernie:  There is a chance of that, yes, that we somehow triggered the time anomaly.  And perhaps the anomaly somehow masked the muon data.
+
+Charlie:  You still have the data from the particles at the end of the chain, do you not?
+
+Bernie:  Yes, we do.  And that's another anomaly that interests us greatly.  The fermion signatures that we observed after the time anomaly differed from the signatures before.
+
+John:  Or somebody switched the data in order to cover up your responsibility for nearly destroying the world.
+
+Bernie:  I assure you that we did nothing of the sort.
+
+John:  You assured us that there was no danger in starting up the LHC.  And now we have an estimated tens of millions of people dead because of you.  You, sir, are not to be trusted.
+
+Charlie:  All right, all right, I'm sure there will be plenty of time later, in other forums, to sort out the cause and effect here, plenty of time to assign the blame that seems to be an inevitable... decay product of any kind of significant event such as this --
+
+John:  Charlie, he and his so-called physicists nearly destroyed the world.  This is no time to mince words.
+
+Charlie:  At this point, John, my intention is to understand what has happened.  Nothing more than that.
+
+John:  Well, <em>my</em> intention is to put the responsibility right where it belongs.
+
+Charlie:  You are perfectly welcome to pursue that goal when the show has ended.
+
+Deepra:  John, you must let go of your ego --
+
+John:  Shut up.
+
+Charlie:  Bernie, you were explaining a second data anomaly.  Or was it a third?
+
+Bernie:  The second.  The first was that we no longer see the muon data.  The second, as I was explaining, is that the fermion signature is now different than it was before the time anomaly.  And on top of that, the fermion signature is... problematic.
+
+John:  Because it shows that you caused the time loop?
+
+Bernie:  Because the signature is one that seems to be forbidden by the Standard Model --
+
+John:  Oh.  You mean it shows that your Standard Model is wrong?  That you don't know what you're doing?
+
+Bernie:  Look, I'm not the only scientist who relies on the Standard Model.  The predictions made by the model have never been violated.
+
+John:  Until now.
+
+Bernie:  Until now, yes.
+
+Charlie:  What does that mean?  What is the significance of something violating the Standard Model?
+
+John:  It means he doesn't know what he is talking about.
+
+Bernie:  It means that there are phenomena that aren't accounted for in the Standard Model, which, again, is a model that has stood the test of...
+
+John:  Say it!
+
+Bernie:  Look, this is one of the things we were hoping to learn with the LHC project.  We were hoping to make observations that helped us to clarify, or to revise, our model of the universe.
+
+John:  What's unusual about the fermion signature?
+
+Bernie:  Two of the muons decayed into the usual set of fermions.  One of the others decayed into an electron and a photon.  The final one decayed into two electrons and a positron.
+
+John:  You're kidding me.
+
+Bernie:  No.
+
+Charlie:  What is the significance of those decays?
+
+John:  Well, they can't happen, for one thing.
+
+Bernie:  And yet, they have happened.  And we don't have the moun data that might help us to explain the fermion signature.
+
+Charlie:  So this all suggests something wrong with the Standard Model, is that it?
+
+Bernie:  Yes.
+
+John:  And it shows that these obsessed lunatics don't know what they're doing, and they don't care.
+
+Charlie:  So, bottom line, Bernie:  Did you at CERN and the LHC project cause this time anomaly.
+
+Bernie:  At this, uh, time we simply don't know for sure.
+
+Charlie:  But there's a chance of it?
+
+John:  A dead certainty!
+
+Bernie:  A chance, yes.  We're reviewing the data now --
+
+John:  What's left of it, you mean.  What you haven't destroyed yet.
+
+Bernie:  And we have, of course, shut down the Large Hadron Collider --
+
+John:  So you admit it!
+
+Bernie:  -- just as a precaution.
+
+Charlie:  So we won't be experiencing this time loop again?
+
+Bernie:  If the loop was caused by the LHC, then it won't happen again, yes.
+
+John:  It's about time.  No pun intended.
+
+Charlie:  Let me ask you a question, John.  What kinds of disasters did you predict from the LHC?
+
+John:  The energies in the LHC are enough to create a black hole.
+
+Charlie:  A black hole?  When you say that, I imagine a monstrous object that sucks matter and light into itself.  An object with gravity so strong that nothing can escape.
+
+John:  Right.  An object that could potentially destroy the universe.
+
+Charlie:  So do you think that's what happened here?  A black hole that, while not destroying the universe, instead bent time?
+
+John:  That's one possibility, yes.
+
+Bernie:  Our calculations show that any black hole created at these energies will be too small to do any damage before it evaporates.
+
+Charlie:  What do you mean evaporates?  I thought that nothing could escape a black hole.
+
+Bernie:  It turns out that's not quite true.  Black holes can evaporate, over time, by a phenomenon called Hawking radiation.
+
+Charlie:  Is that named after the famous Cambridge physicist, Steven Hawking?
+
+Bernie:  Yes, it is.  In the model that he created, the model that is accepted today, a certain form of radiation can dissipate the mass and energy within a black hole.
+
+Charlie:  So is what John is saying possible?  Can the LHC make black holes?
+
+Bernie:  Yes.  But at the energies we're talking about, the energies created inside the LHC, the black holes that would be created are so small that Hawking radiation would evaporate them instantly, before they could do any harm.
+
+John:  Has anyone ever seen Hawking radiation?
+
+Bernie:  No, but it's the commonly accepted --
+
+John:  Can anyone <em>prove</em> that Hawking radiation even exists?
+
+Bernie:  Again, the theory is widely accepted.
+
+John:  Like the Standard Model?
+
+Bernie:  Well, no, it isn't quite as widely accepted as --
+
+John:  As the Standard Model, which says that muons can't decay into the fermion signatures that you reported?
+
+Bernie:  Well... yes.
+
+John:  Why don't you just admit that you don't know what you're doing?
+
+Charlie:  What I want to know, John, is what sort of predictions you made about the LHC.  What disasters you foresaw.
+
+John:  I've already explained the black hole.
+
+Charlie:  Is that the most likely scenerio, in your opinion?
+
+John:  Yes.  But there are others.  Collisions could also produce a magnetic monopole that would cause all of the --
+
+Charlie:  Forgive me, but what is a magnetic monopole?
+
+John:  It's... the easiest way to describe it is a magnet with one pole.
+
+Charlie:  I don't understand.  That's like saying it's an object that has an up but no down.
+
+John:  Yes, it does sound like that.  The only way I can explain it more thoroughly is with string theory, and the details --
+
+Deepra:  Vibrations.  The strings are vibrating, and that's what creates the universe.
+
+John:  Rather than explain what a magnetic monopole is, which I think is beyond our discussion here, let's just say that if it happens, the results are disastrous.  A magnetic monopole would trigger massive proton decay.  The protons that form the nuclei of atoms would decay into more fundamental particles.  And that would blow atoms apart.  In effect, every atom in the neighborhood of the monopole blows apart, which causes a chain reaction that turns the earth into the most massive nuclear bomb ever created.
+
+Charlie:  And this is possible?
+
+John:  It's inevitable if they keep colliding particles at these energies.
+
+Charlie:  Bernie, what's your take on that?
+
+Bernie:  In 2004 a team of scientists concluded a study of <em>all</em> of the kinds of hazards fantasized by Doctor Taurejo.  They determined that the likelihood of any of the events considered was so small as to be impossible.
+
+John:  And yet I was right, wasn't I?  Now what do you have to say?
+
+Charlie:  Did you, John, ever predict that the Large Hadron Collider could trigger the universe to hiccup, to revert twenty nine hours and eleven minutes into the past?
+
+John:  Not that exact scenario, no, but disasters of a similar magnitude.
+
+Bernie:  So <em>you</em> don't know what you're talking about either?
+
+John:  I like how you said 'either'.  So does that imply what I've been saying all along, that you have no idea what you're doing?
+
+Bernie:  I didn't mean anything of the sort.
+
+Charlie:  But you yourself, John, didn't suggest this specific scenario, is that right?
+
+John:  Well...
+
+Bernie:  You're right, Charlie.
+
+Charlie:  Please, Doctor Cormier, let Doctor Taurejo speak for himself.
+
+John:  Thank you, Charlie.
+
+Charlie:  So isn't that right?  That you never predicted this exact scenario?
+
+John:  Yes, you're right.  Not this <em>specific</em> scenario, no.
+
+Charlie:  What can either of you tell me about what is likely to happen next?
+
+Bernie:  As I said, we have shut down the Large Hadron Collider indefinitely.  Over the coming days and weeks we will look very closely at the data to see whether our activities were in any way related to the time anomaly --
+
+John: As if there's any question.
+
+Bernie: -- and if so, what the connection is.
+
+Charlie:  And what do you think will happen next?
+
+Bernie:  <em>If</em> the LHC is related in any way to the time anomaly -- and that's a big if at this point -- then our turning it off should prevent any further similar events.
+
+John:  Should.  You know my definition of should?  <em>Should</em> means <em>probably won't</em>.   Turning it off probably won't prevent further anomalies and chaos and death.  And it may be to late to prevent whatever mechanism is at play here from destroying the universe.
+
+Charlie:  Are you <em>predicting</em> that, John?  Are you predicting that the universe is about to be destroyed and that it's inevitable?
+
+John:  Well, <em>they're</em> the ones with the data.  And they're obviously hiding it.  Bernie says that they're "missing" data about the muons that were created in his death beam device.  I say hogwash.  I say, find that data, find those muons, and you'll know whatever <em>they</em> know, whatever they're hiding.
+
+Charlie:  So what, if anything, <em>are</em> you predicting?
+
+John:  I predict more duplicity, that's what I predict.
+
+Charlie:  I'd like to turn now to another topic, which may be less urgent than the time anomaly itself, but is at least as big a puzzle.  How is it that we remember the twenty nine hours eleven minutes leading up to the moment of the time anomaly?  If everything in the universe reverted to the state it was in on August 8 at 5:28 pm eastern time, why didn't our <em>minds</em> revert?  Sabrina, what can you tell us about that?
+
+Sabrina:  My theory, which you may be familiar with, Charlie, is that consciousness cannot be attributed entirely to brain function.  Consciousness is not just a function of brains.  It is far more fundamental than that.  Earlier Bernie described several fields that are important in physics, such as the magnetic field and the theorized Higgs field.  Another that everybody is familiar with is the gravitational field.  My theory is that consciousness forms another field, a field which is just as real and fundamental as those other physical fields.  In fact, the consciousness field may be even <em>more</em> fundamental to our reality than are the other fields.
+
+Charlie:  Do you mean that consciousness is somehow more real than gravity?
+
+Sabrina:  Yes, that's exactly what I mean.  David Bohm was a brilliant physicist who theorized about what he called the <em>implicate order</em> of the universe.  He was studying the hard problem of how quantum mechanics could possibly work.  One of the tenets of quantum theory is that you cannot make a definite statement about the state of any phenomenon before you measure it.  You can measure the position of an electron, but you cannot say -- even in principle -- where the electron was before you measured it.  By "even in principle," I don't mean that we just don't know enough to form a good conclusion about the electron's prior position.  I mean that it doesn't even make sense to talk about it's position before you measure it.  Another way of saying this is that before you measure the position of the electron, it does not <em>have</em> a position.
+
+Charlie:  But it has to be somewhere, hasn't it?
+
+Sabrina:  No, and that's the leap that gives most of us the willies.  Quantum physicists learn to accept that bizarre conclusion, that before you measure some subatomic phenomenon, there is nothing to be said -- even in <em>principle</em> -- about the phenomenon you're measuring.  They speak instead of wave functions, of a series of equations that describe, among other things, the range of possible positions that the electron <em>could</em> take if you <em>were</em> to measure it.  Before you measure the position of the electron, the electron <em>has</em> no position.  All you can say is that its wave function assigns probabilities to all of the positions in which it might be measured.  And, even more strangely, it is the act of measuring that forces the electron to "choose" a definite position.  Now, I'm just anthropomorphising here.  I don't mean to suggest that the electron itself has consciousness and intention.
+
+Charlie:  That's the weirdness that we non-scientists encounter when we hear about the quantum world.  I can't say I understand it.
+
+Sabrina:  Well, the brilliant physicist Richard Feynman was once asked whether it was true that only a dozen people really understood quantum theory.  Feynman replied, "Oh no, that's totally untrue.  <em>Nobody</em> understands quantum theory.
+
+Charlie:  Okay, so I feel a little better now about my own ignorance.  But how does this relate to the time anomaly and the question of why our memories seem to have survived it?
+
+Sabrina:  Well, David Bohm wasn't satisfied with the conclusion that we can't know, even in principle, the state of a quantum phenomenon before we measure it.  He developed a model of what is happening <em>underneath</em> the quantum probabilities, underneath the wave functions.  He called this model the <em>implicate order</em>.  His model is very sketchy, but it describes the possible fields that give rise to the wave functions, to the probabilities that are at the heart of quantum theory.
+
+Charlie:  Are you saying that Bohm's implicate order includes some kind of <em>consciousness</em> field?
+
+Sabrina:  Yes, that's what I'm saying.  Now I want to be clear that Bohm himself never said that, at least not in so many words.  So I don't want to attribute this cockamamie idea to him.  But I believe that a part of this implicate order is a consciousness field.
+
+Charlie:  So let me see if I understand you.  Are you saying that consciousness exists <em>outside</em> of our minds?
+
+Sabrina:  Outside of our <em>brains</em>.  Our minds may not be confined to what happens inside our skulls.
+
+Deepra:  The consciousness field is vibrations.  You are a vibration.  The universe is vibrations.  Therefore you and the universe are one thing and cannot be separated.  You only <em>think</em> you are separate, but that's an illusion.  Your mind has fooled you.  But it's just vibrating at its own unique frequency.
+
+John:  Shut up!
+
+Bernie:  Sabrina, hundreds if not thousands of neuroscientists are making breakthrough after breakthrough in how the brain works, and how it affects our thoughts and other mental activities.  Are you saying they're looking in the wrong place?
+
+Sabrina:  That's a great question.  No, the things that neuroscientsts are learning about the brain are enormously important.  <em>Enormously</em> important.  They are providing practical breakthroughs in treating brain disorders and associated mental dysfunctions.  What they are <em>not</em> doing, and what I believe they can <em>never</em> do, is explain how brain functions, in and of themselves, give rise to subjective experience.  There will <em>always</em> be a gap.  No matter how much we know about how the brain works, we will always be left with that unanswerable question:  How does <em>this</em> brain process give rise to conscious experience?  I suspect, though I'm not certain, that the essential limitations in attributing conscious experience to mechanisms in the brain is inherent in the nature of the questions we're asking.  On the one hand, we want to know how our brains work.  So we measure measurable entities and events and processes in the brain.  So far so good.  That's the <em>objective</em> question.  The data we're gathering there are objective and repeatable, and if two people make the same measurement, they'll get the same result.  On the other hand, we're also asking about conscious experience which is profoundly -- and I believe <em>inherently </em>-- subjective.  One set of questions is objective and independent of who is asking the question.  The other set of questions is inherently subjective, answerable only to the person who is <em>having</em> the experience.  And I believe there will <em>always</em> be a gap between direct person experience and measurable third-party observations.
+
+Charlie:  So how does your theory address that?
+
+Sabrina:  Before I can explain that, I have to go back to quantum theory, and in particular one more bizarre outcome of quantum theory.  I've already hinted at it, but now I want to focus on it.  And that is:  It is the act of observing a quantum phenomenon that forces it out of its wave function -- out of its complex of possibilities -- and into a particular observable state.  Observing causes what is called the collapse of the wave function.  All probabilities go to zero except one, the one that we observe.
+
+Charlie:  So it's the act of observing that causes the phenomenon to... stop playing around, as it were...
+
+Sabrina:  That's right.
+
+Charlie:  Now, there's something about this that puzzles me --
+
+Sabrina:  That's a good sign.
+
+Charlie:  What constitutes an observation?
+
+Sabrina:  That's a central question that has puzzled scientists and philosphers since the formulation of quantum theory.  What is an observation?  What kind of thing can interact with the wave function in such a way as to cause its collapse?  What is an observer?
+
+Charlie:  And what conclusions have science and philosophy come to?
+
+Deepra:  Vibrations.  It's all vibrations.
+
+Sabrina:  One famous interpretation -- famous and controversial -- is called the Copenhagen Interpretation, which says that the collapse of the wave function requires a <em>conscious</em> observer.  It is the act of observation by a conscious observer that forces a quantum entity to take a particular state.
+
+Charlie:  Well, that raises a whole host of questions.  For example:  Doesn't that mean that the universe didn't exist before there were conscious beings?
+
+Sabrina:  That's right, that's one of the puzzles of the Copenhagen Interpretation.  And if the universe didn't exist before there were conscious beings, then how did the conscious beings evolve?
+
+Charlie:  A cosmic chicken and egg problem.
+
+Sabrina:  That's right.  And as with the avian chicken and egg problem, the paradox and its resolution may be inherent in the question.  The chicken and egg problem easily resolves itself if you can define both chicken and egg in non-contradictory ways.  If by "egg" you mean an egg with a chicken in it, then clearly the egg came first.  That first egg was laid by something that was not quite a chicken, but whose offspring was a chicken.  If on the other hand "egg" means an egg laid by a chicken, then clearly the chicken came first.  That chicken came from something that was not a chicken egg -- that is, an egg that was almost but not quite a chicken egg.  It was laid by a hen that was almost, but not quite, a chicken.  If we can define chicken and egg in non-contradictory ways, the question of which came first is easy to answer.  It's only when we insist on defining chickens and eggs in contradictory ways -- that all chickens come from eggs and all eggs come fron chickens -- that the question becomes paradoxical.  If we insist on asking the question in a paradoxical way, of course it will be a paradox.
+
+Charlie:  So what's the paradox in the Copenhagen Interpretation?
+
+Sabrina:  Let me give you one more term:  classical mechanics.  This term refers to the kinds of phenomena that you and I observe in real life.  We kick a ball, and the ball goes into motion.  Planets orbit around stars.  A magnet picks up metal filings and repels other like-charged magnets.  These phenomena are all described well using classical physics, the kind you learned in high school.  It's only at subatomic scales that things get weird, that quantum effects come into play.  So the question is, then, how do quantum probabilities turn into definite classical phenomena?  So that's what the Copenhagen Interpretation was about.  How do quantum probabilities give rise to classical phenomena?  On the one hand we insist that quantum phenomena collapse -- that is, transform into definite classical phenomena -- only by the act of conscious observation.  On the other hand we also insist that consciousness arises only by the activity of brains, in particular by some set of classical processes occurring within brains, classical processes that we insist we will eventually discover.  So consciousness arises from brains, which themselves arise from the collapse of quantum wave functions.  But the quantum wave functions collapse only upon observation by some conscious entity.  Yes, it's the chicken and the egg.
+
+Charlie:  So how does your theory resolve the paradox, or if you prefer:  the pair o' chickens?
+
+Sabrina:  Remember how we resolved the chicken and egg paradox.  We had to relax either our insistence that all chickens come from chicken eggs, or our insistence that all chicken eggs come from chickens.  So with consciousness and quantum collapse, we have to abandon either our assumption that quantum collapse comes from consciousness, or our assumption that consciousness comes from classical -- that is quantum collapsed -- phemomena.
+
+Charlie:  And you reject the second assumption?
+
+Sabrina:  Yes.  Experiment after experiment has demonstrated the bewilderingly weird truth that it's conscious observation that causes the collapse of wave functions into classical -- that is, observable -- phenomena.
+
+Charlie:  You're talking about the famous double slit experiment?
+
+Sabrina:  Yes.  One aspect of the subatomic world is that subatomic particles act in some ways like particles and in some ways like waves.  The double slit experiment showed that if you measure the wave properties of these subatomic entities, they act like waves.  And if you do that, they do <em>not</em> act like particles.  On the other hand, if you measure their particle-like properties, they act like particles and not like waves.  And it's impossible to measure both the wave properties and the particle properties.  Measuring one kind of property causes the entity to behave, in a weirdly obliging way, the kinds of properties you're measuring.
+
+Charlie:  So you reject the assumption that only consciousness causes wave collapse?
+
+Sabrina:  No, not at all.  What I reject is the assumption that consciousness comes necessarily from classical objects.  In particular, the assumption that consciousness comes only from brains.
+
+Charlie:  Where does it come from, then?
+
+Deepra:  Vibrations!
+
+Sabrina:  From another field that is as fundamental to the fabric of the universe as is the gravitational field or the magnetic field.  Or the Higgs field, for that matter.
+
+Charlie:  I'm having a hard time comprehending what that might even mean.  Do you mean that the universe is conscious?
+
+Sabrina:  Not in the way that you and I are conscious, but yes.
+
+Charlie:  Now, is this just a wild theory, or is there experimental data to back it up?
+
+Sabrina:  I admit, it's mostly theory.  And we're still working on falsifiable predictions that could lead to experiments.
+
+Charlie:  What do you mean by a falsifiable prediction?
+
+Sabrina:  A prediction that, in principle at least, could be violated by real-world observations.  Falsifiable predictions are the heart of science.  Any prediction that could not be violated even in principle isn't useful to science, because there's no way to tell whether it's true.
+
+Charlie:  So what's an example of a falsifiable prediction from your theory of consciousness fields?
+
+Sabrina:  Well, as I said, we're still at the theory stage.  We haven't yet been able to formulate a falsifiable prediction.  But we're hoping that this experience we've <em>all</em> gone through in the past few days will yield further insights.  But notice this:  If our memories persisted even though everything else we can observe in the universe reverted to an earlier state, then there must be some mechanism by which that happened.  And as far as we can tell -- we haven't looked closely at this given the urgency of coping with the emergencies -- our <em>brains</em> did revert to their earlier states.
+
+Charlie:  So let me see if I understand this.  Our brains are the same but or minds are different?
+
+Sabrina:  That's right.  And if that's true, at least to the limits of our ability to measure, then it must be true that consciousness does not arise <em>entirely</em> from our brains.
+
+Charlie:  It comes, instead, from this consciousness field that is somehow a fundamental part of the universe?
+
+Sabrina:  Yes, that's right.
+
+Charlie:  How does this consciousness field relate to what you and I experience as thoughts and feelings?
+
+Sabrina:  We don't know that yet.  Again, it's early days for this theory.  Clearly, the brain has a central role in all of this.  We speculate -- and we realize that we're speculating wildly here -- that there are processes in the brain that interact in some way with the consciosness field.  Roger Penrose has posited, for example, that the interesting microtubule structures in the brain -- which <em>have</em> been observed, though their function is not known -- are involved in some way in consciousness.  I suspect that this mechanism, or some other mechanism like it, interacts with the fundamental, universal consciousness field.
+
+Charlie:  That still leaves the chicken and egg problem.  If it's only through brains that the classical world interacts with the consciousness field -- that is, if it's only brains that exhibit consciousness in the classical world -- then how could the universe have existed before there were brains to observe it?
+
+Sabrina:  Ah, thank you, yes, that's another element of my theory.  It <em>isn't</em> only through brains that the consciousness field interacts with quantum processes and causes collapse into classical phenomena.  My theory is that the consciousness field interacts directly with quantum processes, and that through those interaction quantum wave functions collapse -- become real, as it were.
+
+Charlie:  So brains are not necessary?
+
+Sabrina:  That's right.
+
+Charlie:  Now, you're touching on something very significant to the religious world.  You've posited a consciousness that is involved in bringing reality into existence.  Are you saying that this field -- the consciousness field -- is God?
+
+Deepra:  The universal God-mind.
+
+Sabrina:  No, not at all.  In fact, I'm not positing that the field itself is conscious in the way you and I -- and even my dog Muffie -- are.  I'm saying that this is the field from which our own consciousness arises, mediated by the kinds of brain mechanisms that are the subject of great study of late.  Let me offer an analogy.  You feel the pull of the earth on your body.  That feeling is not, itself, the force of gravity, but only an effect of the force of gravity as it interacts with the mass of the earth and the mass of your body.  Similarly, the consciousness you experience is not, itself, the conscioussness field, but only an effect of the consciousness field as it interacts with mechanisms in your brain.
+
+Charlie:  I think I understand, at least as much as I am likely to without delving into the underlying principles, and I'm probably not equipped to do that.  So I'd like to leave it at that for now, and extend a wish that as you develop your theory and data for or against it you will come back and visit with us in the future.
+
+Sabrina:  I'll be happy to, Charlie.
+
+Charlie:  We're almost out of time for the hour.  I apologize, Doctor Deepra, that we haven't been able to include you more thoroughly in our conversation.  But before we go, is there anything you can add, in a minute or so, to the topics we've been talking about tonight?
+
+Deepra:  Of course.  Charlie, it's as I have been saying.  It's all vibrations.  The universe is nothing more -- and nothing less -- than a complex vibration.  You and I are nothing more than vibrations.  The reason the state of your consciousness survived, though the state of your body did not, is that you are not your body.  You are pure vibration.  And one day you and I and even Doctor Taurajo -- probably -- will vibrate in the same frequency as the rest of the universe.  And at that time we will be enlightened.
+
+Charlie:  Anything about the time anomaly?
+
+Deepra:  Time is an illusion.  There is no time.
+
+Charlie:  Well there you have it.  I'd like to thank my guests, Doctor Bernard Cormier of the Eurorpen Organization for Nuclear Research, Doctor Johannes Taurajo of the Center for Responsibility in High-Energy Physics Research, Distinguished Professor of Consciousness Philosophy Doctor Sabrina Wheeler of Stanford University, and finally Doctor Chopak Deepra, founder and Director of Enlightenment at the Deepra Center for New Consciousness in San Augustin, California.  Thank you all for coming.
