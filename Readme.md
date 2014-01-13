@@ -1,4 +1,4 @@
-trot
-====
+dalefiction
+===========
 
-Dale Emery's personal blog
+A blog of some of Dale's fiction.
