@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 6, Scene 2"
 date: 2006/11/17 01:20:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 6, Scene 2
-comments: true
-published: true
-layout: post
+
 ---
 
 <em> NOTE:  As I said in my last post, the past few days have been a real slog.  Jeremy and Page talk and talk and talk, and not much happens.  It's useful backstory, but it's deadly dull.  Last night at our writer's group meeting, Richard (aka </em><em><font><em><a href="http://underpope.livejournal.com/profile"><img src="http://stat.livejournal.com/img/userinfo.gif" alt="[info]" height="17" width="17" /></a><a href="http://underpope.livejournal.com/"><strong>underpope</strong></a></em>) said, "It's starting to read like a NaNo novel."  Exactly.  Lots of words.  Little movement.  Given that this </font></em><font>is<em> a NaNo novel, that's not the worst thing that could happen.  But what to do?  What to do?</em>

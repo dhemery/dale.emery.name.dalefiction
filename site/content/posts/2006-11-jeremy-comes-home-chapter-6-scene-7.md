@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 6, Scene 7"
 date: 2006/11/18 02:02:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 6, Scene 7
-comments: true
-published: true
-layout: post
+
 ---
 
 Nadine held the pot shakily in both hands, which were protected by two oven mitts, one forest green and the other navy blue, that reached to the elbows of her ten-year-old arms.  She tilted the pot over Gil's plate.  A glob of yellowed macaroni elbows slopped out onto the plate.  A stringer of oily cheese sauce ran down the side of the pot and dripped onto the table.

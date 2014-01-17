@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: Bleah! Too much talk!
 date: 2006/11/21 14:40:00
 tags: 
 - commentary
-title: Bleah!  Too much talk!
-comments: true
-published: true
-layout: post
+- Jeremy Comes Home
+
 ---
 
 <em>NOTE:  Ish.  Too much talk talk talk.  And too much of the talk is on the telephone.</em>

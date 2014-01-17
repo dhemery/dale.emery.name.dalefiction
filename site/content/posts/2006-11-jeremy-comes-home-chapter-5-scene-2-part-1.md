@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 5, Scene 2 (part 1)"
 date: 2006/11/13 20:57:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 5, Scene 2 (part 1)
-comments: true
-published: true
-layout: post
+
 ---
 
 <em>NOTE:  Okay, so this scene is coming out even longer than the earlier long one.  I'll post it in chunks.  Maybe later I'll find a way to break it into multiple scenes.</em>

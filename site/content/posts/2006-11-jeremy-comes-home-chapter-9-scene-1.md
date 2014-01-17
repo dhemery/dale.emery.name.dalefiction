@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 9, Scene 1"
 date: 2006/11/24 16:05:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 9, Scene 1
-comments: true
-published: true
-layout: post
+
 ---
 
 On most days The Friendly Roast was quiet.  The mellow atmosphere helped it to earn its name.  You could hold a friendly conversation without having to strain to hear over the din of loud music or conversation.  But on this October Monday morning when Aaron walked into The Friendly Roast it buzzed with animated conversation.  Two people, a man and a woman sat at one table.  Everyone else was standing, waving their arms, and talking loudly.  Most of the talking seemed to questions.  Most of the questions were answered by laughter, shrugs, and replies of "I don't know."

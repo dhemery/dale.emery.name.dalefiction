@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 2, Scene 1"
 date: 2006/11/01 05:08:00
 tags: 
 - manuscript
-title: Jeremy Comes Home, Chapter 2, Scene 1
-comments: true
-published: true
-layout: post
+- Jeremy Comes Home
+
 ---
 
 Jeremy sat shaking on a bench in Mayfield Park.  In the three days since he had decided to return home he had thought of dozens of ways--mostly horrible--that things would turn out.  He had imagined, but not dared to hope, that his family would drop to their knees in thanks that their runaway Jeremy had come home.  Of course that had been to much to hope for.

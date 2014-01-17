@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 5, Scene 5 (updated)"
 date: 2006/11/16 00:32:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 5, Scene 5 (updated)
-comments: true
-published: true
-layout: post
+
 ---
 
 Terry Mortenson sat in a coffee shop two blocks from the police station and listened to silence on his cell phone.  The silence went on long enough that Terry wasn't sure the call was still connected.

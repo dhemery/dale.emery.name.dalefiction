@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Many Happy Returns
+title: "Many Happy Returns: The Scenes"
 date: 2007/12/01 15:42:31
-tags: []
+tags:
+- Many Happy Returns
 
-title: Many Happy Returns--The Scenes
-comments: true
-published: true
-layout: post
+
 ---
 
 <dl> <dt>Here are all of the good bits from <em>Many Happy Returns</em>, all of the scenes in which stuff happens.   I wrote a lot of other stuff, too, but it was mostly background stuff about the science and about the characters.</dt> <dt> </dt> <dt> </dt> <dt><strong>Cycle 0 (before time loops)

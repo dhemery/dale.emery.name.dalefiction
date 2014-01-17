@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 8, Scene 1"
 date: 2006/11/22 00:07:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 8, Scene 1
-comments: true
-published: true
-layout: post
+
 ---
 
 Jeremy did not own a jacket.  When stepped off the bus into the pre-dawn drizzle of Portland, the damp, cold air chilled his body.  He shivered and wrapped his arms around himself to keep warm.

@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 10, Scene 3 (part 2)"
 date: 2006/11/30 22:28:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 10, Scene 3 (part 2)
-comments: true
-published: true
-layout: post
+
 ---
 
 "So then the horse does this weird thing.  It goes completely docile.  It looks around and sees this guy who seems to be in charge.  And offers itself up to the guy, basically asking the guy to spare it and maybe even protect it."

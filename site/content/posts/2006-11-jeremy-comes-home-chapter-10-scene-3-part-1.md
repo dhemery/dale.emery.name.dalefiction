@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 10, Scene 3 (part 1)"
 date: 2006/11/29 22:54:00
 tags: 
 - manuscript
-title: Jeremy Comes Home, Chapter 10, Scene 3 (part 1)
-comments: true
-published: true
-layout: post
+- Jeremy Comes Home
+
 ---
 
 <em>[NOTE: Here is part one of what I think will be the last scene of the book--the last scene for this draft, at least.  I may write an epilogue at the final write-in on Thursday night.  And even with that, I know I'm leaving a zillion questions unanswered.]</em>

@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Many Happy Returns
+title: "Many Happy Returns: Dale interviews Amy Anderson"
 date: 2007/11/14 23:10:05
 tags: 
+- Many Happy Returns
 - manuscript
-title: Many Happy Returns &#8212; Dale interviews Amy Anderson
-comments: true
-published: true
-layout: post
+
 ---
 
 Q. Hi, Amy.  Tell me about yourself.

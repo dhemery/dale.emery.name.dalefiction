@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 3, Scene 6"
 date: 2006/11/10 20:47:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 3, Scene 6
-comments: true
-published: true
-layout: post
+
 ---
 
 <em>NOTE:  I decided that Jeremy goes to another library after all, not to the offices of the Sacramento Bee.</em>

@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 7, Scene 2"
 date: 2006/11/21 11:54:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 7, Scene 2
-comments: true
-published: true
-layout: post
+
 ---
 
 Gil hesitated, not sure he wanted to know what was at the other end of this telephone number.  His family was in enough turmoil right now.  Two strangers had destroyed the fragile equilibrium the family had maintained for over a year.

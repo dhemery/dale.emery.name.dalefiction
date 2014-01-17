@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 2, Scene 4"
 date: 2006/11/02 22:19:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 2, Scene 4
-comments: true
-published: true
-layout: post
+
 ---
 
 Jeremy waited in the shadows of Mrs. Stilson’s carport.  Before he ran away he had hidden here many times as he played with Gil, Deena, and the other kids from the neighborhood.  From his vantage point he could see his house and, to the west, the three houses between his and the end of the street.  If Mrs. Stilson came home he would have to scramble to get out of the way, and maybe to explain himself.  But she kept a late shift at the hospital.  Or, at least, she used to.  As Jeremy was learning, a lot could change in a year.

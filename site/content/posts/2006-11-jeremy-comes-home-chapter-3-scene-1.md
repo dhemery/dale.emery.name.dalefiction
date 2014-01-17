@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 3, Scene 1"
 date: 2006/11/04 20:58:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 3, Scene 1
-comments: true
-published: true
-layout: post
+
 ---
 
 Jeremy lay on a bench in Mayfield Park, with his feet flat on the bench so that his knees stuck up.  He held his head with both hands as if trying to keep it from bursting.

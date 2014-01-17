@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 7, Scene 3"
 date: 2006/11/21 12:19:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 7, Scene 3
-comments: true
-published: true
-layout: post
+
 ---
 
 Though Jeremy could not see it in the dark, he knew that Mount Shasta lay straight ahead.  The family had drive up Interstate 5 from Sacramento to Portland seven years ago.  Mom had packed their best clothes, loaded them all into the car, and driven them the four hundred miles to a wedding for an old college girlfriend.  Dad had not come.  He could not break away from work.  Mom had fumed non-stop until five-year-old Jeremy had pointed to a dim, cone shape ahead and asked, "Mom, what's that?"

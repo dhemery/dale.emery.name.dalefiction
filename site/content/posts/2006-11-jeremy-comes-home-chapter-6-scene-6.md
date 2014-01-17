@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 6, Scene 6"
 date: 2006/11/18 01:58:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 6, Scene 6
-comments: true
-published: true
-layout: post
+
 ---
 
 Foley stared at the cell phone.

@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Many Happy Returns
+title: "Many Happy Returns: Dale interviews Faith Roberge"
 date: 2007/11/15 22:45:02
 tags: 
+- Many Happy Returns
 - manuscript
-title: Many Happy Returns &#8212; Dale interviews Faith Roberge
-comments: true
-published: true
-layout: post
+
 ---
 
 Q. Hi, Faith. Tell me about yourself.

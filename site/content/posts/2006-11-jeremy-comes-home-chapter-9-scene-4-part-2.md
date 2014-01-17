@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 9, Scene 4 (part 2)"
 date: 2006/11/27 03:44:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 9, Scene 4 (part 2)
-comments: true
-published: true
-layout: post
+
 ---
 
 <em>[NOTE:  This scene may never end.]</em>

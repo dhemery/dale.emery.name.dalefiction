@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 3, Scene 4"
 date: 2006/11/10 13:14:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 3, Scene 4
-comments: true
-published: true
-layout: post
+
 ---
 
 <em>NOTE:  I planned this scene weeks ago.  On Sunday, as I was flying to Phoenix for a conference, I thought of a devastating ending that would allow me to motivate an event or two for the next few scenes.  Monday night was busy for me (selling some training to a colleague) and I didn't write.</em>

@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 6, Scene 5"
 date: 2006/11/18 01:57:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 6, Scene 5
-comments: true
-published: true
-layout: post
+
 ---
 
 Nils Rollins ran down the stairs and into the church basement.  Panting, he said, "What's the emergency, Aaron?"

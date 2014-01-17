@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 3, Scene 2"
 date: 2006/11/04 21:04:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 3, Scene 2
-comments: true
-published: true
-layout: post
+
 ---
 
 Jeremy's stomach growled as he walked.  He had money--a little more than thirty two dollars--but he didn't want to spend it yet.  He wasn't sure when he would have more.  He hadn't yet learned the easiest places to steal money.  So he would have to find free food.

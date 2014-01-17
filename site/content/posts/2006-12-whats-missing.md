@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: What's missing?
 date: 2006/12/01 14:09:00
 tags: 
+- Jeremy Comes Home
 - commentary
-title: What&#8217;s missing?
-comments: true
-published: true
-layout: post
+
 ---
 
 Now that I'm done with the first draft, I'd be happy to hear any feedback you want to offer.

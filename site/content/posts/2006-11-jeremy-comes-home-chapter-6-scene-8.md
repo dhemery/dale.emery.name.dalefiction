@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 6, Scene 8"
 date: 2006/11/18 18:24:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 6, Scene 8
-comments: true
-published: true
-layout: post
+
 ---
 
 The door opened and a teenage boy looked out.  This was the brother that Jeremy had fought on Friday.  Gil.  "Yes?"

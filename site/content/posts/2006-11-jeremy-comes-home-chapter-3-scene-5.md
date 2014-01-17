@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 3, Scene 5"
 date: 2006/11/10 13:28:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 3, Scene 5
-comments: true
-published: true
-layout: post
+
 ---
 
 <em>NOTE:  When Jeremy bolted from the library, that allowed me to insert this little interlude.  I've known this was coming but I didn't know when.

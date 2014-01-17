@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 7, Scene 8"
 date: 2006/11/21 17:03:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 7, Scene 8
-comments: true
-published: true
-layout: post
+
 ---
 
 It was not like Gil to hesitate.  And yet he hesitated.  He spent a sleepless night trying to make sense of these strange happenings.  A strange boy who had intruded on his family, claiming to be his brother.  A strange man who claimed to know where his brother Aaron was.  And a brother who had remained aloof from the family, suddenly turning up--and that only involuntarily--at the same time as these two strangers.

@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 9, Scene 3"
 date: 2006/11/25 22:53:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 9, Scene 3
-comments: true
-published: true
-layout: post
+
 ---
 
 Nils leaned against the table.  Jeremy sat on a folding chair.  His mind was full of questions.  And full of hope that Nils would be able to answer them.

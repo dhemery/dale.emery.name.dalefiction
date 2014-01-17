@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 6, Scene 1"
 date: 2006/11/17 01:02:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 6, Scene 1
-comments: true
-published: true
-layout: post
+
 ---
 
 <em>NOTE:  The last two or three days have been a slog.  Today, finally, the writing felt good.  This scene had some nice surprises for me.</em>

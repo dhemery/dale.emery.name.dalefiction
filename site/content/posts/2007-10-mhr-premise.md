@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Many Happy Returns
+title: "Many Happy Returns: Premise"
 date: 2007/10/29 16:09:30
 tags: 
+- Many Happy Returns
 - commentary
-title: "Many Happy Returns\xE2\x80\x94Premise"
-comments: true
-published: true
-layout: post
+
 ---
 
 My <a href="http://www.nanowrimo.org" title="National Novel Writing Month">NaNoWriMo</a> novel this year was inspired by an idea posted by <a href="http://www.nanowrimo.org/eng/user/50120">roefactor</a> on last year's NaNoWriMo "Adopt-a-Plot" thread:

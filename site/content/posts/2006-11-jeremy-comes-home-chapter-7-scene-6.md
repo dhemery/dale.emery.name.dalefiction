@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 7, Scene 6"
 date: 2006/11/21 12:23:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 7, Scene 6
-comments: true
-published: true
-layout: post
+
 ---
 
 "Deena," Gil said, "I want to talk to you."

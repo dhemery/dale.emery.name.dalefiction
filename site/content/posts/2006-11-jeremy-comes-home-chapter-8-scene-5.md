@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 8, Scene 5"
 date: 2006/11/24 15:50:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 8, Scene 5
-comments: true
-published: true
-layout: post
+
 ---
 
 Aaron pulled the truck into a parking lot beside the church.  A swinging wooden sign hanging by the front door read, "First Congregational Church of Portland.  Traditional Service Sunday 9 a.m.  Contemporary Service Sunday 11 a.m.  Pastor James Rollins."

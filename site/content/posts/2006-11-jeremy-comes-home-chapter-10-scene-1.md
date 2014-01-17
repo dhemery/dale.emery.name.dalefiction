@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 10, Scene 1"
 date: 2006/11/29 00:19:00
 tags: 
 - manuscript
-title: Jeremy Comes Home, Chapter 10, Scene 1
-comments: true
-published: true
-layout: post
+- Jeremy Comes Home
+
 ---
 
 Aaron came down the stairs.  Behind him came Page.

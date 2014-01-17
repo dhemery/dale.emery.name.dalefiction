@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 2, Scene 5"
 date: 2006/11/04 00:42:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 2, Scene 5
-comments: true
-published: true
-layout: post
+
 ---
 
 Thank goodness rainy season hadn’t started yet in the Sacramento valley.  But after the sun went down the air had cooled rapidly.  Jeremy sat in Mayfield Park with his back against a tree.  He shivered, partly from the cold, and partly from exhaustion.

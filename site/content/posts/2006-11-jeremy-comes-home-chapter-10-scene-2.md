@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 10, Scene 2"
 date: 2006/11/29 18:51:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 10, Scene 2
-comments: true
-published: true
-layout: post
+
 ---
 
 In 1961 I was sent to Vietnam as what they called a "military advisor."  Most of my advice was to my commanding officer, in the form of reports about what the Viet Cong were doing.  My job was to sit in the woods on a hill in the middle of nowhere and listen to the radio for days on end.  Every night I would radio back to my CO with a summary.  Sometimes he would have specific things to listen for, and I'd make notes to listen for those the next day.

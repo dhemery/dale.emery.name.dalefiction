@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 5, Scene 1"
 date: 2006/11/12 15:34:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 5, Scene 1
-comments: true
-published: true
-layout: post
+
 ---
 
 They exited the police station with Foley's hand resting on Jeremy's shoulder.  The sun had set and the temperature had started to drop.  As soon as they cleared the door Jeremy stepped quickly to the left, breaking physical contact.

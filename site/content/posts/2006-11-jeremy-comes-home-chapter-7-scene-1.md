@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 7, Scene 1"
 date: 2006/11/18 18:29:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 7, Scene 1
-comments: true
-published: true
-layout: post
+
 ---
 
 The first thing Officer Patricia Yonce noticed when she entered Page Foley's house was the half-eaten sandwich on the kitchen counter and the sweating, half-full mug of root beer beside it.

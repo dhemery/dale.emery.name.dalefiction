@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 5, Scene 2 (part 2)"
 date: 2006/11/13 21:08:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 5, Scene 2 (part 2)
-comments: true
-published: true
-layout: post
+
 ---
 
 How does a piece of paper forget you?  It doesn't, of course.  A newspaper doesn't forget.  A poster for a missing child doesn't forget.  And they certainly don't spontaneously change the stories written on them and the people who played the starring roles in those stories.

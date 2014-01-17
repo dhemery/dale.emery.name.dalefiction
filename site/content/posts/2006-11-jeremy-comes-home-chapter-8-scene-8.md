@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 8, Scene 8"
 date: 2006/11/24 16:03:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 8, Scene 8
-comments: true
-published: true
-layout: post
+
 ---
 
 Foley sipped his coffee.  He checked each door frequently.  Aaron had said he would arrive in ten or fifteen minutes.

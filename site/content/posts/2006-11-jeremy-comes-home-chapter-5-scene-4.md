@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 5, Scene 4"
 date: 2006/11/16 00:30:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 5, Scene 4
-comments: true
-published: true
-layout: post
+
 ---
 
 Foley lay a yellowed, brittle newspaper clipping on the coffee table in front of Jeremy.

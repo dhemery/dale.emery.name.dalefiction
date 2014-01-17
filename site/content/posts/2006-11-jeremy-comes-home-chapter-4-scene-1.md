@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 4, Scene 1"
 date: 2006/11/11 23:14:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 4, Scene 1
-comments: true
-published: true
-layout: post
+
 ---
 
 Officer Raymond Andollo opened the door to the interrogation room and entered with a can of Sprite and an egg salad sandwich in a triangular plastic package.  He set them on the bare metal table in front of Jeremy.

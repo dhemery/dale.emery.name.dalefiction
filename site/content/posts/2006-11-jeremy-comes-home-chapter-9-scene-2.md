@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 9, Scene 2"
 date: 2006/11/25 02:54:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 9, Scene 2
-comments: true
-published: true
-layout: post
+
 ---
 
 <em>[NOTE:  This scene is an unholy mess.  In the previous two chapters I created about six times as many details as I can keep in my head, so my characters--especially in this scene--keep forgetting and remembering all kinds of stuff.</em>

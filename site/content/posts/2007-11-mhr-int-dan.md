@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Many Happy Returns
+title: "Many Happy Returns: Dale interviews Dan Roberge"
 date: 2007/11/14 21:38:04
 tags: 
+- Many Happy Returns
 - manuscript
-title: Many Happy Returns &#8212; Dale interviews Dan Roberge
-comments: true
-published: true
-layout: post
+
 ---
 
 <blockquote>This interview was even more fun than the other two.  Dan pulled some serious attitude here, and kept turning the conversation back to me.  I like him!</blockquote>

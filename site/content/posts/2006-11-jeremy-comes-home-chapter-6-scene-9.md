@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 6, Scene 9"
 date: 2006/11/18 18:27:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 6, Scene 9
-comments: true
-published: true
-layout: post
+
 ---
 
 Deena watched the door slam.

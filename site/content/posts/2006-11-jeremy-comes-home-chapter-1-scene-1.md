@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 1, Scene 1"
 date: 2006/11/01 05:05:00
 tags: 
 - manuscript
-title: Jeremy Comes Home, Chapter 1, Scene 1
-comments: true
-published: true
-layout: post
+- Jeremy Comes Home
+
 ---
 
 Jeremy Crowther stood on the corner, leaned on the stop sign, and looked down Cherry Lane.  He looked at his house for the first time in more than a year.  His house looked depressingly as it had the last time he had seen it a year earlier when he ran away.  The sky blue paint was fading.  The rusted gutter sagged under the weight of a month’s accumulation of leaves from the magnolia tree.

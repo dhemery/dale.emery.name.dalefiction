@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 8, Scene 4"
 date: 2006/11/24 15:45:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 8, Scene 4
-comments: true
-published: true
-layout: post
+
 ---
 
 Patty stood looking down at Terry, with her foot on the seat of the chair and her forarm draped across on her knee.  "You're involved with Aaron Crowther?"

@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 7, Scene 4"
 date: 2006/11/21 12:20:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 7, Scene 4
-comments: true
-published: true
-layout: post
+
 ---
 
 Once again, Aaron was frantic, pacing faster than usual, changing direction randomly, talking with exaggerated motions of his hands.  And yelling.

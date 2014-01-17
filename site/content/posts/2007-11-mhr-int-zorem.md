@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Many Happy Returns
+title: "Many Happy Returns: Dale interviews Zorem Bigote"
 date: 2007/11/18 00:28:13
 tags: 
+- Many Happy Returns
 - manuscript
-title: Many Happy Returns &#8212; Dale interviews Zorem Bigote
-comments: true
-published: true
-layout: post
+
 ---
 
 <blockquote>Okay, I think that's the last of my character interviews.  For now, anyway.</blockquote>

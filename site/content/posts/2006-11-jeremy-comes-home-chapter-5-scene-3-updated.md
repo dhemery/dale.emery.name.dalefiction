@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 5, Scene 3 (updated)"
 date: 2006/11/16 00:23:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 5, Scene 3 (updated)
-comments: true
-published: true
-layout: post
+
 ---
 
 <em>NOTE:  Updated to add some bits, and to remove the "tell him his big brother wants to see him" line, which fits better in a later scene.</em>

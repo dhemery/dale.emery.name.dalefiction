@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 6, Scene 4"
 date: 2006/11/18 01:55:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 6, Scene 4
-comments: true
-published: true
-layout: post
+
 ---
 
 The number had a Portland, Oregon area code.  Foley pushed the talk button, then held the cell phone to his ear.  He listened to the line ring once, then twice.

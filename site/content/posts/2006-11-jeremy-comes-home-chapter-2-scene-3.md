@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 2, Scene 3"
 date: 2006/11/02 22:13:00
 tags: 
 - manuscript
-title: Jeremy Comes Home, Chapter 2, Scene 3
-comments: true
-published: true
-layout: post
+- Jeremy Comes Home
+
 ---
 
 Jeremy wandered for a while, unsure what to do next.  Deena would be getting out of school any minute.  Should he try to talk to her?  No, not yet.  Deena would be happy to see him.  Deena would be excited and would want to talk to Mom.  But if Mom was still reacting strangely, that might confuse Deena, or even get her into trouble.

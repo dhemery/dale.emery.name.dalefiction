@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 9, Scene 4 (part 1)"
 date: 2006/11/25 23:06:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 9, Scene 4 (part 1)
-comments: true
-published: true
-layout: post
+
 ---
 
 <em>[NOTE:  Yes, I know Foley's explanation of what happened with the police would not satisfy Aaron.  I have some ideas about how to fix all that, but that's for the second draft.  This is the NaNoWriMo draft.  Damn the coherence; full speed ahead!]

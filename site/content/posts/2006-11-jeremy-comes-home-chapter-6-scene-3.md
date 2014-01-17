@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 6, Scene 3"
 date: 2006/11/18 01:52:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 6, Scene 3
-comments: true
-published: true
-layout: post
+
 ---
 
 On top of the monitor sat a bobble head doll of Arnold Schwarzenegger.  Printed on the plastic base were the words "The Governator."

@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 9, Scene 5"
 date: 2006/11/28 00:31:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 9, Scene 5
-comments: true
-published: true
-layout: post
+
 ---
 
 Watermelon ran to Jeremy, nearly tripping over his own feet.  "You remember me?  You really know who I am?"

@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 7, Scene 5"
 date: 2006/11/21 12:22:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 7, Scene 5
-comments: true
-published: true
-layout: post
+
 ---
 
 Jeremy stood at the telephone booth at the truck stop with a finger in his left ear.  Even so he could barely hear the phone ringing.

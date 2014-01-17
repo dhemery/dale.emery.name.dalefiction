@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 8, Scene 7"
 date: 2006/11/24 16:01:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 8, Scene 7
-comments: true
-published: true
-layout: post
+
 ---
 
 Jeremy heard a buzzing sound.  Aaron reached into his pocket and pulled out a cell phone.  "Excuse me just a minute.  I have to take this call."  He stepped away from Jeremy and Nils and moved to the back of the room, speaking quietly into the cell phone.

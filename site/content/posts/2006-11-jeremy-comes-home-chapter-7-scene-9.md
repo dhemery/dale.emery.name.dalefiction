@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 7, Scene 9"
 date: 2006/11/21 21:00:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 7, Scene 9
-comments: true
-published: true
-layout: post
+
 ---
 
 <em>NOTE:  I had thought that the previous scene and this one were superfluous, but I wanted to write them because I need the word count.  Then as I sat down at Borders to finish the scene (starting with "Tell me what happened"), I realized how the scene had to end.  I had planned for Gil to give the same information, but I hadn't noticed what the information would mean to the person he's giving it to.  And, voila, suddenly a new scene (that I had not thought of before) becomes inevitable, and pretty darned soon.  I wish I could say I planned this all out deliberately, but I'm nowhere near as smart as my subconscious.</em>

@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 5, Scene 6"
 date: 2006/11/16 00:37:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 5, Scene 6
-comments: true
-published: true
-layout: post
+
 ---
 
 "Is she gone?" Jeremy said.

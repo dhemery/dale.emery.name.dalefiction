@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 8, Scene 6"
 date: 2006/11/24 15:58:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 8, Scene 6
-comments: true
-published: true
-layout: post
+
 ---
 
 Foley drove the rented Ford Aspire slowly down Yamhill Street looking for number 1401, the address Aaron had given him, a coffee shop.  On either side of the street were small shops.

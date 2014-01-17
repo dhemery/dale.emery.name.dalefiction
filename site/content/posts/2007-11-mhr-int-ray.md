@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Many Happy Returns
+title: "Many Happy Returns: Dale interviews Ray Andollo"
 date: 2007/11/14 21:28:23
 tags: 
+- Many Happy Returns
 - manuscript
-title: Many Happy Returns &#8212; Dale interviews Ray Andollo
-comments: true
-published: true
-layout: post
+
 ---
 
 Q. Hey, Ray, tell me about yourself.

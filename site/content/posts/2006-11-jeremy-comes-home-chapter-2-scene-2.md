@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 2, Scene 2"
 date: 2006/11/02 03:21:00
 tags: 
 - manuscript
-title: Jeremy Comes Home, Chapter 2, Scene 2
-comments: true
-published: true
-layout: post
+- Jeremy Comes Home
+
 ---
 
 Gordon Abbot High School was a two story white brick building surrounded by thick green grass in the Fabulous Forties, an upper middle class section of the eastern Sacramento suburbs.  Jeremy stood at the foot of a wide concrete stairway that led to a grassy terrace.  Every few minutes students came out of the building alone or in small groups and passed him without notice.

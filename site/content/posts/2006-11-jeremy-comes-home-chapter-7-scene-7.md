@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 7, Scene 7"
 date: 2006/11/21 14:29:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 7, Scene 7
-comments: true
-published: true
-layout: post
+
 ---
 
 On the passenger seat, Mortenson's cell phone rang.  Foley picked it up.  The outer display read, "Incoming call...  Aaron Crowther."

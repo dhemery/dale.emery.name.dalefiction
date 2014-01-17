@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 8, Scene 2"
 date: 2006/11/22 00:09:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 8, Scene 2
-comments: true
-published: true
-layout: post
+
 ---
 
 The door swung open and there, yawning and rubbing his eyes awake, stood Terry in old boxer shorts.  "Patty, what are--"

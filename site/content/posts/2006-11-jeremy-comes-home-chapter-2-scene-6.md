@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 2, Scene 6"
 date: 2006/11/04 00:55:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 2, Scene 6
-comments: true
-published: true
-layout: post
+
 ---
 
 The sky had brightened into full morning by the time Jeremy stopped in front of Ronald Ferrar Elementary school.  He had walked around the neighborhood for an hour to warm himself against the chill of the dawn twilight.

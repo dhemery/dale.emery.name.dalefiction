@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Many Happy Returns
+title: "Many Happy Returns: Dale interviews Patty Yonce"
 date: 2007/11/14 21:35:01
 tags: 
+- Many Happy Returns
 - manuscript
-title: Many Happy Returns &#8212; Dale interviews Patty Yonce
-comments: true
-published: true
-layout: post
+
 ---
 
 Q. Hi, Patty.  Tell me about yourself.

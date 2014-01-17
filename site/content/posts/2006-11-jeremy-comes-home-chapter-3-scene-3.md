@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 3, Scene 3"
 date: 2006/11/05 22:47:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 3, Scene 3
-comments: true
-published: true
-layout: post
+
 ---
 
 Near Mayfield Park, Mendel Street briefly split into a divided road.  The divider, mostly covered in grass, widened into a small community garden centered around a large two-tier fountain.

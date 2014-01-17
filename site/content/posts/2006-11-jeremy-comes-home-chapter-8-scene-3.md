@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: "Jeremy Comes Home: Chapter 8, Scene 3"
 date: 2006/11/22 00:10:00
 tags: 
+- Jeremy Comes Home
 - manuscript
-title: Jeremy Comes Home, Chapter 8, Scene 3
-comments: true
-published: true
-layout: post
+
 ---
 
 Aaron's truck was an old grey Nissan pickup.  Jeremy closed the door.  Inside the truck was only slightly warmer than outside, but he welcomed even the meager improvement.  He started to remove the coat.

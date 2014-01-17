@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Many Happy Returns
+title: "Many Happy Returns: Dale interviews Frank Anderson"
 date: 2007/11/18 00:26:22
 tags: 
+- Many Happy Returns
 - manuscript
-title: Many Happy Returns &#8212; Dale interviews Frank Anderson
-comments: true
-published: true
-layout: post
+
 ---
 
 Q. Hi Frank.  What's your story?

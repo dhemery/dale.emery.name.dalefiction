@@ -1,13 +1,10 @@
 --- 
-categories: 
-- Jeremy Comes Home
+title: Jeremy in print (sort of)
 date: 2007/01/27 13:24:00
 tags: 
+- Jeremy Comes Home
 - commentary
-title: Jeremy in print (sort of)
-comments: true
-published: true
-layout: post
+
 ---
 
 Just for fun I ordered a few printed and bound copies of <em>Jeremy Comes Home</em>.  I used a self-publishing company called <a href="http://www.lulu.com">Lulu.com</a>.  You send Lulu a PDF or other file of your book, and they'll print and bind as many copies as you want. If you want, they'll even make it available for sale. This year Lulu made an offer to NaNoWriMo winners:  Send us your book by January 16 and we'll print one copy for you for free.I missed the deadline, but ordered two paperback copies anyway, one for me and one for my sweetie.  The price was just over $8 per copy, plus shipping.
