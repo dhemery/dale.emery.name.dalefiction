@@ -1,4 +1,6 @@
 dalefiction
 ===========
 
-A blog of some of Dale's fiction.
+Source code for
+Dale's fiction blog:
+_[dalefiction](http://dalefiction.dale.emery.name/)_.
