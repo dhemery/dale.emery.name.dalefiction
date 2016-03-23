@@ -1,6 +1,6 @@
-dalewriting
+dalefiction
 ===========
 
 Source code for
 Dale's writing blog:
-_[dalewriting](http://dalewriting.dale.emery.name/)_.
+_[dalefiction](http://dalefiction.dale.emery.name/)_.
