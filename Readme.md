@@ -2,5 +2,5 @@ dalefiction
 ===========
 
 Source code for
-Dale's writing blog:
+Dale's fiction blog:
 _[dalefiction](http://dalefiction.dale.emery.name/)_.
